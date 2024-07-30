@@ -1,0 +1,51 @@
+footer .footer-top
+{
+    /* background: #f5f5f5 !important; */
+    
+    background-image: url(../kidsacade/images/background/teacher-bg-3.jpg) !important;
+}
+
+
+footer .footer-item .twitter-post li{
+    margin-bottom: 12px !important;
+    padding-bottom: 12px !important;
+}
+
+.single-post h4{
+    padding-bottom: 20px;
+}
+
+.post-content img{
+    padding-bottom: 20px;
+}
+
+.post-content h4{
+    padding-bottom: 20px;
+}
+
+
+.header-two .main-menu ul li ul li a{
+    padding:6px 15px !important;
+}
+
+.feature-item p{
+    text-align: justify !important;
+}
+
+.features{
+    background-image: url(../kidsacade/images/background/facility-bg.jpg) !important;
+   
+  }
+
+  .logo{
+      background: #fff;
+      border-radius: 8px;
+  }
+
+  .header-two .top-contents{
+    text-align: start !important;
+  }
+
+  .header-two .top-contents li{
+   margin-left: 0px !important;
+  }
