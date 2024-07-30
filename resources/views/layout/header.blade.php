@@ -322,7 +322,7 @@
                     <li><a href="About/about_display.html"> Our Team </a></li>
                   </ul> --}}
                 </li>
-                <li><a href="About/about_display/13.html">Mandatory Public Disclosure</a></li>
+                <li><a href="{{ url('/mandatorypublicdisclosure') }}">Mandatory Public Disclosure</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                     aria-expanded="false">Admissions <span class="caret"></span></a>
