@@ -3,7 +3,6 @@
 @section('main-content')
 
 
-
 <!-- Contact Start here -->
 <section class="contact contact-page padding-120">
     <div class="contact-details ">

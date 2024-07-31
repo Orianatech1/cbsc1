@@ -3,10 +3,6 @@
 @section('main-content')
 
 
-
-
-
-
 <style>
     .pro-description .nav-tabs {
         border-bottom: 0px;
@@ -80,7 +76,7 @@
         <div class="container">
             <h3>Principal</h3>
             <ul>
-                <li><a href="../index.html">Home /</a></li>
+                <li><a href="{{ url('/welcome') }}">Home /</a></li>
                 <li>About / Our Team / Principal</li>
             </ul>
         </div><!-- container -->

@@ -1,10 +1,16 @@
+ 
+ @extends('layout.main')
+
+@section('main-content')
+
+
 <!-- Page Header Start here -->
 <section class="page-header section-notch">
     <div class="overlay">
         <div class="container">
         <h3>Assessment</h3>
         <ul>
-            <li><a href="../index.html">Home /</a></li>
+            <li><a href="#">Home /</a></li>
             <li>Assessment</li>
         </ul>
         </div><!-- container -->
@@ -40,10 +46,10 @@
                     <h3 class="sidebar-title">All Categories</h3>
 
                     <ul class="sidebar-categories">
-                                          <li><a href="6.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Pedagogy </a></li>
-                                          <li><a href="2.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Assessment </a></li>
-                                          <li><a href="3.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Final Evaluation </a></li>
-                                          <li><a href="4.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i> School USP </a></li>
+                                          <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Pedagogy </a></li>
+                                          <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Assessment </a></li>
+                                          <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Final Evaluation </a></li>
+                                          <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> School USP </a></li>
                                       </ul>
                   </div><!-- sidebar item -->
 
@@ -54,3 +60,4 @@
       </section>
         <!-- Blog Post End here -->
 
+@endsection

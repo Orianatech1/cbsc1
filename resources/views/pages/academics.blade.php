@@ -1,10 +1,16 @@
+ 
+ @extends('layout.main')
+
+@section('main-content')
+ 
+ 
  <!-- Page Header Start here -->
  <section class="page-header section-notch">
         <div class="overlay">
             <div class="container">
                                     <h3>Curriculum Details</h3>
                                 <ul>
-                    <li><a href="../../index.html">Home /</a></li>
+                    <li><a href="#">Home /</a></li>
                     <li>Academics
                                                     / Curriculum Details
                                             </li>
@@ -24,15 +30,15 @@
                                 <div class="post-item">
                                     <div class="post-content">
                                         <h3><a href="#">Academic Curriculum Details</a></h3>
-                                                                                                                            <p>1. Our school follows the CBSE curriculum.</p>
+<p>1. Our school follows the CBSE curriculum.</p>
 
-<p>2. Please refer to the official website&nbsp;<a href="http://cbse.nic.in/">cbse.nic.in.</a>&nbsp;&amp;&nbsp;<a href="http://cbseacademic.nic.in/">cbseacademic.nic.in</a></p>
+<p>2. Please refer to the official website&nbsp;<a href="#">cbse.nic.in.</a>&nbsp;&amp;&nbsp;<a href="#">cbseacademic.nic.in</a></p>
 
 <p>3. As per the instructions, we follow the NCERT books as prescribed by the CBSE.</p>
 
 <p>4. Kindly refer to Uniform System of Assessment, Examination and Report Card for Classes VI-IX from Academic Year 2018-19 on wards mentioned in the school diary as well as on the CBSE website.</p>
 
-<p>5.&nbsp;<strong>Syllabus:</strong>&nbsp;<a href="http://cbseacademic.nic.in/curriculum.html">http://cbseacademic.nic.in/curriculum.html</a></p>
+<p>5.&nbsp;<strong>Syllabus:</strong>&nbsp;<a href="#"></a></p>
 
 <p>6.&nbsp;<strong>Primary School Program (I - V):</strong>&nbsp;The Primary School Program encourages inquiry and exploration, and develops children&#39;s competence in various skills - reading, writing, listening, speaking, problem-solving, observation, measurement and use of information and communications technology.The wide range of curricular and co-curricular opportunities offered helps instil in children confidence and discipline. The focus on developing communication skills helps them appreciate the value of education, as it reflects in their ability to express themselves, in addition to developing pragmatic skills.</p>
 
@@ -47,54 +53,51 @@
 <p>This all encompassing education is systematized and planned, triggering in a student, an insatiable thirst for knowledge.</p>
 
 <p>&nbsp;</p>
-                                                                            </div>
-                                </div><!-- post item -->
-                            </div><!-- post items -->
-
-
-                </div>
-                <div class="col-md-3">
-                    <div class="sidebar">
-
-                        <div class="sidebar-item">
+ </div>
+ </div><!-- post item -->
+</div><!-- post items -->
+</div>
+    <div class="col-md-3">
+     <div class="sidebar">
+       <div class="sidebar-item">
                             <h3 class="sidebar-title">Academics</h3>
 
                             <ul class="sidebar-categories">
                                                                                                             <li><a
-                                                href="1.html">Curriculum Details</a>
+                                                href="#">Curriculum Details</a>
                                         </li>
                                                                             <li><a
-                                                href="2.html">Learning Resources</a>
+                                                href="#">Learning Resources</a>
                                         </li>
                                                                             <li><a
-                                                href="3.html">School Best Practice</a>
+                                                href="#">School Best Practice</a>
                                         </li>
                                                                             <li><a
-                                                href="4.html">Academic Calendar</a>
+                                                href="#">Academic Calendar</a>
                                         </li>
                                                                             <li><a
-                                                href="13.html">BPSN Newsletter</a>
+                                                href="#">BPSN Newsletter</a>
                                         </li>
                                                                             <li><a
-                                                href="5.html">Environmental Education</a>
+                                                href="#">Environmental Education</a>
                                         </li>
                                                                             <li><a
-                                                href="6.html">Student Services</a>
+                                                href="#">Student Services</a>
                                         </li>
                                                                             <li><a
-                                                href="15.html">Book List</a>
+                                                href="#">Book List</a>
                                         </li>
                                                                             <li><a
-                                                href="12.html">Holiday List</a>
+                                                href="#">Holiday List</a>
                                         </li>
                                                                             <li><a
-                                                href="16.html">Student Strength 2024-2025</a>
+                                                href="#">Student Strength 2024-2025</a>
                                         </li>
                                                                             <li><a
-                                                href="8.html">Teachers Training Details</a>
+                                                href="#">Teachers Training Details</a>
                                         </li>
                                                                             <li><a
-                                                href="10.html">Alumni Association</a>
+                                                href="#">Alumni Association</a>
                                         </li>
                                                                                                 </ul>
                         </div>
@@ -104,13 +107,13 @@
 
                             <ul class="sidebar-categories">
                                                                                                             <li><a
-                                                href="../activity_page_display/1.html">Co-Curricular Activities</a>
+                                                href="#">Co-Curricular Activities</a>
                                         </li>
                                                                             <li><a
-                                                href="../activity_page_display/2.html">Extra-Curricular Activities</a>
+                                                href="#">Extra-Curricular Activities</a>
                                         </li>
                                                                             <li><a
-                                                href="../activity_page_display/4.html">Celebrations</a>
+                                                href="#">Celebrations</a>
                                         </li>
                                                                                                 </ul>
                         </div>
@@ -120,13 +123,13 @@
 
                             <ul class="sidebar-categories">
                                                                                                             <li><a
-                                                href="../achievement_page_display/1.html">School Achievements</a>
+                                                href="#">School Achievements</a>
                                         </li>
                                                                             <li><a
-                                                href="../achievement_page_display/2.html">Faculty Achievements</a>
+                                                href="#">Faculty Achievements</a>
                                         </li>
                                                                             <li><a
-                                                href="../achievement_page_display/3.html">Student Achievements</a>
+                                                href="#">Student Achievements</a>
                                         </li>
                                                                                                 </ul>
                         </div>
@@ -138,3 +141,4 @@
     </section>
     <!-- Blog Post End here -->
 
+    @endsection

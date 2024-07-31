@@ -85,11 +85,14 @@
     <div class="mobile-menu">
       <ul class="m-menu">
         <li class="dropdown-submenu">
-          <a href="#">Home</a>
+          <a href="{{ url('/welcome')}}">Home</a>
+        
 
         </li>
         <li class="dropdown-submenu">
-          <a href="#">About</a>
+          <a href="{{ url('/about') }}">About</a>
+        </li>
+
           <!-- <ul class="mobile-submenu">
                               <li><a href="About/about_display/1.html">Our Organization </a></li>
                   <li><a href="About/about_display/2.html">Founder Secretary&#039;s Message </a></li>
@@ -111,7 +114,7 @@
         </li>
 
         <li class="dropdown-submenu">
-          <a href="#">Admission</a>
+          <a href="{{ url('/admissions') }}">Admission</a>
           <!-- <ul class="mobile-submenu">
                                             <li><a href="Admission/admission_page_display/6.html">Admission Enquiry </a></li>
                               <li><a href="Admission/admission_page_display/1.html">Admission Procedure &amp; Age Criteria </a></li>
@@ -124,7 +127,7 @@
         </li>
 
         <li class="dropdown-submenu">
-          <a href="#">Academics</a>
+          <a href="{{ url('/academics') }}">Academics</a>
           <!-- <ul class="mobile-submenu">
                                             <li><a href="Academic/academic_page_display/1.html">Curriculum Details </a></li>
                               <li><a href="Academic/academic_page_display/2.html">Learning Resources </a></li>
@@ -156,7 +159,7 @@
         </li>
 
         <li class="dropdown-submenu">
-          <a href="#">Facilities</a>
+          <a href="{{ url('/facilities') }}">Facilities</a>
           <!-- <ul class="mobile-submenu">
                                               <li><a href="Facility/facility_page_display/1.html">Laboratories</a></li>
                                 <li><a href="Facility/facility_page_display/2.html">School Facilities</a></li>
@@ -166,14 +169,14 @@
         </li>
 
         <li class="dropdown-submenu">
-          <a href="#">Gallery</a>
+          <a href="{{ url('/gallery') }}">Gallery</a>
           <!-- <ul class="mobile-submenu">
                 <li><a href="Gallery/photo_gallery_display.html">Gallery </a></li>
                 <li><a href="Gallery/video_gallery_display.html">Video Gallery </a></li>
                 <li><a href="Gallery/press_releases_display.html">Press Releases </a></li>
           </ul> -->
         </li>
-        <li><a href="Contact/contact.html">Contact</a></li>
+        <li><a href="{{ url('/contact') }}">Contact</a></li>
 
       </ul>
     </div>

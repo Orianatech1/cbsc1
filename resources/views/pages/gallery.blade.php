@@ -1,10 +1,15 @@
+
+@extends('layout.main')
+
+@section('main-content')
+
 <!-- Page Header -->
 <section class="page-header section-notch">
     <div class="overlay">
         <div class="container">
             <h3>Photo Gallery</h3>
             <ul>
-                <li><a href="../index.html">Home /</a></li>
+                <li><a href="#">Home /</a></li>
                 <li>Gallery / Photo Gallery</li>
             </ul>
         </div><!-- container -->
@@ -109,8 +114,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -125,8 +130,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -141,8 +146,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414IMG-20240717-WA0018.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414IMG-20240717-WA0018.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -157,8 +162,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414IMG-20240717-WA0013.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414IMG-20240717-WA0013.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -173,8 +178,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414img%206.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414img%206.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -189,8 +194,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414img%205.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414img%205.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -205,8 +210,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414img%204.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414img%204.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -221,8 +226,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414img%203.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414img%203.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -237,8 +242,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;2&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/2/1721213414img%202.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/2/1721213414img%202.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Campus Life" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -293,8 +298,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816172img%2019.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816172img%2019.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -309,8 +314,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816172img%2018.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816172img%2018.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -325,8 +330,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816172img%2017.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816172img%2017.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -341,8 +346,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816172img%2016.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816172img%2016.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -357,8 +362,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816171img%2015.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816171img%2015.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -373,8 +378,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816171img%2014.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816171img%2014.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -389,8 +394,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816171img%2013.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816171img%2013.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -405,8 +410,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816170img%2012.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816170img%2012.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -421,8 +426,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816170img%2011.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816170img%2011.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -437,8 +442,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;3&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/3/1677816170img%2010.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/3/1677816170img%2010.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2022-23" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -481,8 +486,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0039.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0039.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -497,8 +502,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0035.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0035.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -513,8 +518,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0028.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0028.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -529,8 +534,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0026.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0026.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -545,8 +550,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0024.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0024.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -561,8 +566,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1713244818IMG-20240322-WA0005.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1713244818IMG-20240322-WA0005.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -577,8 +582,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1672752627IMG-20221222-WA0128.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1672752627IMG-20221222-WA0128.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -593,8 +598,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1672752627IMG-20221222-WA0124.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1672752627IMG-20221222-WA0124.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -609,8 +614,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1672752627IMG-20221222-WA0123.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1672752627IMG-20221222-WA0123.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -625,8 +630,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;4&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/4/1672752627IMG-20221222-WA0122.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/4/1672752627IMG-20221222-WA0122.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Sports" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -671,8 +676,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221010-WA0052.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221010-WA0052.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -687,8 +692,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221010-WA0048.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221010-WA0048.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -703,8 +708,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221010-WA0045.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221010-WA0045.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -719,8 +724,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221010-WA0035.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221010-WA0035.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -735,8 +740,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221010-WA0031.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221010-WA0031.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -751,8 +756,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221009-WA0158.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221009-WA0158.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -767,8 +772,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221009-WA0106.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221009-WA0106.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -783,8 +788,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221009-WA0099.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221009-WA0099.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -799,8 +804,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221009-WA0036.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221009-WA0036.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -815,8 +820,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;8&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/8/1666148920IMG-20221009-WA0033.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/8/1666148920IMG-20221009-WA0033.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion to Dr. Suresh Naik Space Spark" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -856,8 +861,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688538164IMG-20230621-WA0097.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688538164IMG-20230621-WA0097.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -872,8 +877,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688538164IMG-20230621-WA0094.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688538164IMG-20230621-WA0094.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -888,8 +893,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0188.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0188.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -904,8 +909,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0187.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0187.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -920,8 +925,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0186.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0186.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -936,8 +941,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0185.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0185.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -952,8 +957,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0184.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0184.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -968,8 +973,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0183.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0183.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -984,8 +989,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0182.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0182.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1000,8 +1005,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;9&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/9/1688534962IMG-20230621-WA0181.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/9/1688534962IMG-20230621-WA0181.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Educational Excursion To Visit G-20 Exhibition" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1041,8 +1046,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173WhatsApp%20Image%202023-12-21%20at%2000.41.10.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173WhatsApp%20Image%202023-12-21%20at%2000.41.10.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1057,8 +1062,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173imgz.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173imgz.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1073,8 +1078,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173IMG-20231221-WA0156.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173IMG-20231221-WA0156.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1089,8 +1094,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173IMG-20231221-WA0066.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173IMG-20231221-WA0066.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1105,8 +1110,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173IMG-20231221-WA0064.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173IMG-20231221-WA0064.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1121,8 +1126,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173IMG-20231221-WA0035.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173IMG-20231221-WA0035.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1137,8 +1142,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173img29.jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173img29.jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1153,8 +1158,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173img28%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173img28%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1169,8 +1174,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173img28%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173img28%20(1).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1185,8 +1190,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;10&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/10/1704692173img27%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/10/1704692173img27%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual sports Meet" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1232,8 +1237,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380329img%2020%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380329img%2020%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1248,8 +1253,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380329img%2020%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380329img%2020%20(1).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1264,8 +1269,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380329img%2019%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380329img%2019%20(1).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1280,8 +1285,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380273img%2018%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380273img%2018%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1296,8 +1301,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380272img%2018%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380272img%2018%20(1).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1312,8 +1317,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380272img%2017%20(3).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380272img%2017%20(3).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1328,8 +1333,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380272img%2017%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380272img%2017%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1344,8 +1349,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380271img%2017%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380271img%2017%20(1).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1360,8 +1365,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380271img%2016%20(2).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380271img%2016%20(2).jpg"
+                                                <a class="gallery-popup" href="#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1376,8 +1381,8 @@
                                         <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                             data-groups="[&quot;11&quot;]">
                                             <div class="project-img-container" style="width: auto; height: 200px; overflow: hidden;">
-                                                <a class="gallery-popup" href="../storage/photo_gallery/11/1707380271img%2016%20(1).jpg">
-                                                    <img class="img-fluid" src="../storage/photo_gallery/11/1707380271img%2016%20(1).jpg"
+                                                <a class="gallery-popup" href=".#">
+                                                    <img class="img-fluid" src="#"
                                                         alt="Annual Day 2023-24" style="width: 100%; height: auto;">
                                                 </a>
                                                 <div class="project-item-info">
@@ -1428,3 +1433,5 @@
     </div>
 </section>
 
+ 
+@endsection
