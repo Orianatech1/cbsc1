@@ -50,8 +50,8 @@ Route::get('/ourschool', function () {
     return view('pages.about.ourschool');
 });
 
-Route::get('/mandatorypublicdisclosure', function () {
-    return view('pages.about.mandatorypublicdisclosure');
+Route::get('/manpubdisclosure', function () {
+    return view('pages.about.manpubdisclosure');
 });
 
 Route::get('/managingcommittee', function () {
