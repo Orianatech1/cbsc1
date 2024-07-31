@@ -60,19 +60,19 @@
               <ul class="photos">
                 <li>
 
-                  <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0030.jpg"
+                  <img src="storage/banner1.jpg"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg"
+                  <img src="storage/banner1.jpg"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg"
+                  <img src="storage/banner1.jpg"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
