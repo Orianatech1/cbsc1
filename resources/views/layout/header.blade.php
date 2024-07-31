@@ -90,88 +90,69 @@
         </li>
         <li class="dropdown-submenu">
           <a href="#">About</a>
-          <!-- <ul class="mobile-submenu">
+          <ul class="mobile-submenu">
                               <li><a href="About/about_display/1.html">Our Organization </a></li>
-                  <li><a href="About/about_display/2.html">Founder Secretary&#039;s Message </a></li>
+
                   <li><a href="About/about_display/3.html">Our School </a></li>
                   <li><a href="About/about_display/4.html">Vision  and Mission </a></li>
-                  <li><a href="About/about_display/5.html">Principal&#039;s Message </a></li>
+
                   <li><a href="About/about_display/6.html">Managing Committee </a></li>
-                  <li><a href="About/about_display/7.html">Self-Affidavit </a></li>
+
                   <li><a href="About/about_display/8.html">Affiliation </a></li>
-                  <li><a href="About/about_display/9.html">Annual Report </a></li>
-                  <li><a href="About/about_display/12.html">Circular </a></li>
-                  <li><a href="About/about_display/11.html">Collaborations </a></li>
+
                   <li><a href="About/about_display/14.html">Staff List </a></li>
                   <li><a href="About/about_display/13.html">MANDATORY PUBLIC DISCLOSURE </a></li>
 
-          <li><a href="campus_details.html"> Our Campuses </a></li>
-          <li><a href="About/about_display.html"> Our Team </a></li>
-          </ul> -->
+
+          </ul>
         </li>
 
         <li class="dropdown-submenu">
           <a href="#">Admission</a>
-          <!-- <ul class="mobile-submenu">
-                                            <li><a href="Admission/admission_page_display/6.html">Admission Enquiry </a></li>
+          <ul class="mobile-submenu">
+                              <li><a href="Admission/admission_page_display/6.html">Admission Enquiry </a></li>
                               <li><a href="Admission/admission_page_display/1.html">Admission Procedure &amp; Age Criteria </a></li>
                               <li><a href="Admission/admission_page_display/2.html">Document Checklist </a></li>
-                              <li><a href="Admission/admission_page_display/8.html">Short Term Certified Courses for International Students </a></li>
-                              <li><a href="Admission/admission_page_display/3.html">School Brochure </a></li>
-                              <li><a href="Admission/admission_page_display/7.html">XI Science Brochure </a></li>
+
                               <li><a href="Admission/admission_page_display/4.html">Fee Details </a></li>
-                        </ul> -->
+                        </ul>
         </li>
 
         <li class="dropdown-submenu">
           <a href="#">Academics</a>
-          <!-- <ul class="mobile-submenu">
-                                            <li><a href="Academic/academic_page_display/1.html">Curriculum Details </a></li>
-                              <li><a href="Academic/academic_page_display/2.html">Learning Resources </a></li>
+          <ul class="mobile-submenu">
+                              <li><a href="Academic/academic_page_display/1.html">Curriculum Details </a></li>
+
                               <li><a href="Academic/academic_page_display/3.html">School Best Practice </a></li>
                               <li><a href="Academic/academic_page_display/4.html">Academic Calendar </a></li>
-                              <li><a href="Academic/academic_page_display/13.html">BPSN Newsletter </a></li>
-                              <li><a href="Academic/academic_page_display/5.html">Environmental Education </a></li>
-                              <li><a href="Academic/academic_page_display/6.html">Student Services </a></li>
-                              <li><a href="Academic/academic_page_display/15.html">Book List </a></li>
+
+
                               <li><a href="Academic/academic_page_display/12.html">Holiday List </a></li>
-                              <li><a href="Academic/academic_page_display/16.html">Student Strength 2024-2025 </a></li>
-                              <li><a href="Academic/academic_page_display/8.html">Teachers Training Details </a></li>
-                              <li><a href="Academic/academic_page_display/10.html">Alumni Association </a></li>
-                            <li><a href="#">Enrichment Activities</a>
-                <ul class="dropdown-menu">
-                                          <li><a href ="Academic/activity_page_display/1.html">Co-Curricular Activities</a></li>
-                                          <li><a href ="Academic/activity_page_display/2.html">Extra-Curricular Activities</a></li>
-                                          <li><a href ="Academic/activity_page_display/4.html">Celebrations</a></li>
-                                      </ul>
+
+
               </li>
                 <li><a href="#">Academic Achievements</a>
-                <ul class="dropdown-menu">
-                                          <li><a href ="Academic/achievement_page_display/1.html">School Achievements</a></li>
-                                          <li><a href ="Academic/achievement_page_display/2.html">Faculty Achievements</a></li>
-                                          <li><a href ="Academic/achievement_page_display/3.html">Student Achievements</a></li>
-                                      </ul>
+
               </li>
-          </ul> -->
+          </ul>
         </li>
 
         <li class="dropdown-submenu">
           <a href="#">Facilities</a>
-          <!-- <ul class="mobile-submenu">
-                                              <li><a href="Facility/facility_page_display/1.html">Laboratories</a></li>
+        <ul class="mobile-submenu">
+                                <li><a href="Facility/facility_page_display/1.html">Laboratories</a></li>
                                 <li><a href="Facility/facility_page_display/2.html">School Facilities</a></li>
 
-              <li><a href="#" target="_blank">Digital Library</a></li>
-          </ul> -->
+
+          </ul>
         </li>
 
         <li class="dropdown-submenu">
           <a href="#">Gallery</a>
-          <!-- <ul class="mobile-submenu">
+          <ul class="mobile-submenu">
                 <li><a href="Gallery/photo_gallery_display.html">Gallery </a></li>
-                <li><a href="Gallery/video_gallery_display.html">Video Gallery </a></li>
-                <li><a href="Gallery/press_releases_display.html">Press Releases </a></li>
-          </ul> -->
+
+          </ul>
         </li>
         <li><a href="Contact/contact.html">Contact</a></li>
 
