@@ -1,7 +1,47 @@
 @extends('layout.main')
 
 @section('main-content')
-
+<style>
+    /* Mandatory Public Disclosure*/
+body {
+   
+    margin: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+h2 {
+    text-align:center;
+    
+}
+h1 {
+    text-align:right;
+   
+}
+p{
+    font-size: 20px; 
+    color: black; 
+    text-align: justify;
+}
+img.image1{
+    width: 100%;
+    height: 550px;
+}
+img.image2{
+    width: 100%;
+    height: 800px;
+}
+</style>
 <img src="public/kidsacade/images/Untitled Project.jpg" >
     <img class="image2" src="public/kidsacade/images/Untitled Project.jpg">
 <h1>APPENDIX - IX</h1>
