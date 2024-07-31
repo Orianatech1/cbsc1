@@ -453,7 +453,7 @@ input[type="submit"][disabled]:focus {
 .button-default:hover, .button-default:focus{
     text-decoration: none;
     color: #fff;
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .section-notch{
     position: relative;
@@ -1367,7 +1367,7 @@ header .main-menu .menu_cart .check_out{
     transition: .5s ease-out;
 }
 .scroll-top:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .scroll-top.open{
     -webkit-transform: scale(1);
@@ -2210,7 +2210,7 @@ header .main-menu .menu_cart .check_out{
     opacity: 0;
 }
 .gallery .gallery-item .gallery-overlay .bg{
-    background-color: rgba(146,39,143,.94);
+    background-color: rgba(146, 39, 89, 0.94);
     height: 100%;
     width: 100%;
 }
@@ -2295,7 +2295,7 @@ header .main-menu .menu_cart .check_out{
     background-position: center;
 }
 .gallery-two .overlay{
-    background-color: rgba(252,127,12,.8);
+    background-color: rgba(241, 126, 18, 0.8);
 }
 .gallery-two .gallery-two-items{
     margin-bottom: 70px;
@@ -2318,7 +2318,7 @@ header .main-menu .menu_cart .check_out{
     background-position: center;
 }
 .achievements .overlay{
-    background-color: rgba(146,39,143,.8);
+    background-color: rgba(146, 39, 103, 0.8);
 }
 .achievements .achievement-item{
     text-align: center;
@@ -3039,7 +3039,7 @@ ul#countdown {
     background-color: #ab1259;
 }
 .blog-post .post-item:nth-child(4) .post-button:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .blog-post .post-item:nth-child(6) .post-button{
     background-color: #e84b3a;
@@ -3057,7 +3057,7 @@ ul#countdown {
     background-color: #ab1259;
 }
 .blog-post .post-item:nth-child(8) .post-button:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .post-meta li{
     list-style: none;
@@ -3657,7 +3657,7 @@ ul#countdown {
     transition: .25s ease-out;
 }
 .contact-form .contact-button:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 
 /*  18  - Product
@@ -3879,7 +3879,7 @@ ul#countdown {
     outline: none;
 }
 .product .pro-button button:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .product .pro-button a{
     display: inline-block;
@@ -4484,7 +4484,7 @@ ul#countdown {
 }
 
 .shop-cart table tr .coupon input:last-child:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .shop-cart table tr .update{
     float: right;
@@ -4510,7 +4510,7 @@ ul#countdown {
     background-color: #ab1259;
 }
 .shop-cart table tr .update input:first-child:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .shop-cart table tr .update input:last-child{
     float: right;
@@ -4556,7 +4556,7 @@ ul#countdown {
     transition: .25s ease-out;
 }
 .shop-cart .shipping input:hover{
-    background-color: #7e007b;
+    background-color: #6e0044;
 }
 .shop-cart .cart-total h4{
     color: #e84b3a;

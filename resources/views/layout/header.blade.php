@@ -93,20 +93,19 @@
             <ul class="mobile-submenu">
                     <li><a href="">Our Organization </a></li>
                     <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
-                    <li><a href="{{ url('/') }}">Our School </a></li>
+
                     <li><a href="{{ url('/') }}">Vision  and Mission </a></li>
                     <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
                     <li><a href="{{ url('/') }}">Managing Committee </a></li>
-                    <li><a href="{{ url('/') }}">Self-Affidavit </a></li>
+
                     <li><a href="{{ url('/') }}">Affiliation </a></li>
-                    <li><a href="{{ url('/') }}">Annual Report </a></li>
-                    <li><a href="{{ url('/') }}">Circular </a></li>
-                    <li><a href="{{ url('/') }}">Collaborations </a></li>
+
+
+
                     <li><a href="{{ url('/') }}">Staff List </a></li>
                     <li><a href="{{ url('/') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
-            <li><a href="campus_details.html"> Our Campuses </a></li>
-            <li><a href="About/about_display.html"> Our Team </a></li>
+
             </ul>
           </li>
 
@@ -116,9 +115,9 @@
                                 <li><a href="{{ url('/') }}">Admission Enquiry </a></li>
                                 <li><a href="{{ url('/') }}">Admission Procedure &amp; Age Criteria </a></li>
                                 <li><a href="{{ url('/') }}">Document Checklist </a></li>
-                                <li><a href="{{ url('/') }}">Short Term Certified Courses for International Students </a></li>
+
                                 <li><a href="{{ url('/') }}">School Brochure </a></li>
-                                <li><a href="{{ url('/') }}">XI Science Brochure </a></li>
+
                                 <li><a href="{{ url('/') }}">Fee Details </a></li>
                           </ul>
           </li>
@@ -176,9 +175,9 @@
           </div>
           <div class="col-md-5">
             <center style="margin-left: -145px;">
-              <h3 class="school_name"> Pune&#039; Cambridge</h3>
+              <h3 class="school_name"> Pune Cambridge Public School</h3>
               <span class="school_addr">Ambegaon</span> <br>
-              <span class="school_grade"> <b> AFFILIATED TO CBSE </b></span>
+              <span class="school_grade"> <b> UDISE - 27251600131 </b></span>
             </center>
           </div>
           <div class="col-md-3">
@@ -288,19 +287,18 @@
                   <ul class="dropdown-menu">
                     <li><a href="">Our Organization </a></li>
                     <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
-                    <li><a href="{{ url('/') }}">Our School </a></li>
+
                     <li><a href="{{ url('/') }}">Vision  and Mission </a></li>
                     <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
                     <li><a href="{{ url('/') }}">Managing Committee </a></li>
-                    <li><a href="{{ url('/') }}">Self-Affidavit </a></li>
+
                     <li><a href="{{ url('/') }}">Affiliation </a></li>
-                    <li><a href="{{ url('/') }}">Annual Report </a></li>
-                    <li><a href="{{ url('/') }}">Circular </a></li>
-                    <li><a href="{{ url('/') }}">Collaborations </a></li>
+
+
+
                     <li><a href="{{ url('/') }}">Staff List </a></li>
                     <li><a href="{{ url('/') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
-                    <li><a href="campus_details.html"> Our Campuses </a></li>
-            <li><a href="About/about_display.html"> Our Team </a></li>
+
                   </ul>
                 </li>
                 <li><a href="About/about_display/13.html">Mandatory Public Disclosure</a></li>
@@ -311,9 +309,9 @@
                     <li><a href="{{ url('/') }}">Admission Enquiry </a></li>
                                 <li><a href="{{ url('/') }}">Admission Procedure &amp; Age Criteria </a></li>
                                 <li><a href="{{ url('/') }}">Document Checklist </a></li>
-                                <li><a href="{{ url('/') }}">Short Term Certified Courses for International Students </a></li>
+
                                 <li><a href="{{ url('/') }}">School Brochure </a></li>
-                                <li><a href="{{ url('/') }}">XI Science Brochure </a></li>
+
                                 <li><a href="{{ url('/') }}">Fee Details </a></li></ul>
                 </li>
                 <li class="dropdown">
