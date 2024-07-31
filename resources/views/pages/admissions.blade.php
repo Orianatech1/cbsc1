@@ -3,42 +3,38 @@
 
 @section('main-content')
 
-
 <!-- Page Header Start here -->
-<section class="page-header section-notch">
-    <div class="overlay">
-        <div class="container">
-        <h3>Admission Procedure &amp; Age Criteria</h3>
+ <section class="page-header section-notch">
+<div class="overlay">
+<div class="container">
+<h3>Admission Procedure &amp; Age Criteria</h3>
         <ul>
             <li><a href="#">Home /</a></li>
             <li>Admission / Admission Procedure &amp; Age Criteria</li>
         </ul>
-        </div><!-- container -->
-    </div><!-- overlay -->
-    </section><!-- page header -->
-    <!-- Page Header End here -->
-
-
-     <!-- Blog Post Start here -->
-     <section class="blog-post padding-120">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-9 post-item-pagination">
-
-                                    <div class="post-items">
-                        <div class="post-item">
-                                <div class="post-content">
-                                    <h3><a href="#">Admission Procedure</a></h3>
+</div><!-- container -->
+</div><!-- overlay -->
+</section><!-- page header -->
+<!-- Page Header End here -->
+<!-- Blog Post Start here -->
+<section class="blog-post padding-120">
+<div class="container">
+<div class="row">
+<div class="col-md-9 post-item-pagination">
+<div class="post-items">
+<div class="post-item">
+<div class="post-content">
+<h3><a href="#">Admission Procedure</a></h3>
  <p>1. Parent enquiry attended by admission counsellors who guide the parent about the school curriculum, timing, fees etc.</p>
  <p>2. Form is given by the office accountant.</p>
-                                                                </div>
-                        </div><!-- post item -->
-                    </div><!-- post items -->
-                                    <div class="post-items">
-                        <div class="post-item">
-                                <div class="post-content">
-                                    <h3><a href="#">Admission Criteria</a></h3>
-                                                                                                        <table border="1" cellpadding="7" cellspacing="0">
+</div>
+</div><!-- post item -->
+</div><!-- post items -->
+<div class="post-items">
+<div class="post-item">
+<div class="post-content">
+<h3><a href="#">Admission Criteria</a></h3>
+        <table border-="1" cellpadding="7" cellspacing="0">
         <tbody>
             <tr>
                 <td><strong>#</strong></td>
@@ -122,36 +118,30 @@
             </tr>
         </tbody>
     </table>
-                                                                </div>
-                        </div><!-- post item -->
-                    </div><!-- post items -->
+</div>
+</div><!-- post item --> 
+</div><!-- post items -->
+</div>
+<div class="col-md-3">
+<div class="sidebar">
+<div class="sidebar-item">
+<h3 class="sidebar-title">Admissions</h3>
+<ul class="sidebar-categories">
+    <li><a href="#">Admission Enquiry</a></li>
+    <li><a href="#">Admission Procedure &amp; Age Criteria</a></li>
+    <li><a href="#">Document Checklist</a></li>
+    <li><a href="#">Short Term Certified Courses for International Students</a></li>
+    <li><a href="#">School Brochure</a></li>
+    <li><a href="#">XI Science Brochure</a></li>
+    <li><a href="#">Fee Details</a></li>
 
-
-
-
-            </div>
-            <div class="col-md-3">
-              <div class="sidebar">
-
-                <div class="sidebar-item">
-                  <h3 class="sidebar-title">Admissions</h3>
-
-                  <ul class="sidebar-categories">
-                                                                <li><a href="#">Admission Enquiry</a></li>
-                                                <li><a href="#">Admission Procedure &amp; Age Criteria</a></li>
-                                                <li><a href="#">Document Checklist</a></li>
-                                                <li><a href="#">Short Term Certified Courses for International Students</a></li>
-                                                <li><a href="#">School Brochure</a></li>
-                                                <li><a href="#">XI Science Brochure</a></li>
-                                                <li><a href="#">Fee Details</a></li>
-
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-        <!-- Blog Post End here -->
+ </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Blog Post End here -->
 
  @endsection

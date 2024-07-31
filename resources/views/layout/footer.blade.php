@@ -160,8 +160,6 @@
 
 </html>
 
-header
-
 <!-- <script>
   document.getElementById("mySliderSection").style.minHeight = "800px";
 </script> -->
