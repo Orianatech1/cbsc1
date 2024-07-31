@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class FacilitiesController extends Controller
+class ManagingCommitteeController extends Controller
 {
     public function index(){
-        return view('pages.facilities');
+        return view('pages.about.managingcommittee');
     }
 }
