@@ -19,7 +19,7 @@
         position: relative;
         list-style: none;
         display: inline-block;
-        float: left;
+        float: left;n
         font-style: italic;
         font-weight: 700;
         font-size: 18px;
