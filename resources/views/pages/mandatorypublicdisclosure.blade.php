@@ -1,6 +1,7 @@
 @extends('layout.main')
 
 @section('main-content')
+
 <img src="public/kidsacade/images/Untitled Project.jpg" >
     <img class="image2" src="public/kidsacade/images/Untitled Project.jpg">
 <h1>APPENDIX - IX</h1>
@@ -270,6 +271,6 @@
         <td>Link Of Youtube Video Of The Inspecton Of School Covering The Infrastructure Of The School.</td>
         <td></td>
     </tr>
-   
+
 </table>
 @endsection

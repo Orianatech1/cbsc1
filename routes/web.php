@@ -6,31 +6,31 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/', function () {
-    return view('about');
+Route::get('/about', function () {
+    return view('pages.about');
 });
 
-Route::get('/', function () {
+Route::get('/gallery', function () {
     return view('gallery');
 });
 
-Route::get('/', function () {
+Route::get('/facilities', function () {
     return view('facilities');
 });
 
-Route::get('/', function () {
-    return view('contact');
+Route::get('/contact', function () {
+    return view('pages.contact');
 });
 
-Route::get('/', function () {
+Route::get('/admissions', function () {
     return view('admissions');
 });
 
-Route::get('/', function () {
+Route::get('/academics', function () {
     return view('academics');
 });
 
-Route::get('/', function () {
-    return view('mandatorypublicdisclosure');
+Route::get('/mandatorypublicdisclosure', function () {
+    return view('pages.mandatorypublicdisclosure');
 });
 
