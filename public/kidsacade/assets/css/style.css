@@ -15,8 +15,8 @@
 			Table of CONTENT
 -----------------------------------------------
 	01. Default CSS
-	02. Header 
-	03.	Banner 
+	02. Header
+	03.	Banner
 	04. Page Header
 	05. Facility
 	06. About
@@ -35,7 +35,7 @@
 	19. Subscribe
 	20. 404 Error
 	21. Footer
-	
+
 -----------------------------------------------*/
 
 /*	01	- Default CSS
@@ -218,11 +218,11 @@ dfn,cite,em,i {
     font-style: italic;
 }
 blockquote {
-    border: 1px solid #e9e9e9; 
+    border: 1px solid #e9e9e9;
     color: #939595;
-    font-size: 17px; 
+    font-size: 17px;
     font-style: italic;
-    line-height: 28px; 
+    line-height: 28px;
     font-weight: 700;
     padding: 30px 25px 25px 80px;
     position: relative;
@@ -488,7 +488,7 @@ input[type="submit"][disabled]:focus {
     margin: 0px auto 55px;
 }
 .section-header h3{
-    color: #92278f;
+    color: #a10843;
     margin-bottom: 10px;
 }
 .section-header p{
@@ -566,7 +566,7 @@ input[type="submit"][disabled]:focus {
 /*  02  - Header
 ----------------------------------------------*/
 header .header-top{
-    background-color: #92278f;
+    background-color: #a10843;
     padding: 11px 0px;
 }
 header .header-top ul{
@@ -694,7 +694,7 @@ header .main-menu .menu > li:nth-child(7) a{
 header .main-menu .menu > li:nth-child(8) a{
     color: #a40202;
 }
-.menu>li>a:focus, .menu>li>a:hover, .menu .open>a, .menu .open>a:focus, .menu .open>a:hover, .dropdown-menu>li>a:focus, 
+.menu>li>a:focus, .menu>li>a:hover, .menu .open>a, .menu .open>a:focus, .menu .open>a:hover, .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover, .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
     background-color: transparent;
     border-color: #f0f0f0;
@@ -725,7 +725,7 @@ header .main-menu .navbar-toggle .icon-bar{
     transition: .25s ease-out;
 }
 header .main-menu .navbar-toggle .icon-bar:nth-child(2){
-    background-color: #92278f;
+    background-color: #a10843;
     transform: rotate(45deg) translate(4px, 5px);
 }
 header .main-menu .navbar-toggle .icon-bar:nth-child(3){
@@ -4445,7 +4445,7 @@ ul#countdown {
     line-height: 18px;
     cursor: pointer;
 }
-.shop-cart table tr:hover .product-thumbnail h4 a, .shop-cart table tr:hover span, 
+.shop-cart table tr:hover .product-thumbnail h4 a, .shop-cart table tr:hover span,
 .shop-cart table tr:hover .quantity a, .shop-cart table tr:hover .quantity input{
     color: #fcb614;
 }
@@ -5048,7 +5048,7 @@ div#bs-example-navbar-collapse-1 {
     position: absolute;
     top: 0%;
     margin-top: 100px;
-    width: 100%; 
+    width: 100%;
 }
 
 .open-mobile-menu .mobile-menu ul {
@@ -5216,7 +5216,7 @@ ul.menu {
     padding: 0;
     padding-right: 20px;
     width: calc(100% - 100px);
-    justify-content: flex-end;  
+    justify-content: flex-end;
 }
 ul.menu li {
     list-style: none;
