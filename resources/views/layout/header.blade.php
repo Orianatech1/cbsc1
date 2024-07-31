@@ -15,7 +15,7 @@
 
   <title>Pune&#39; Cambridge</title>
 
-  <link href="#" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
 
   <!-- Google fonts -->
   <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
@@ -185,11 +185,11 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <a class="logo" href="index.html"><img style="float: left;"
+            <a class="logo" href="{{ url('/') }}"><img style="float: left;"
                 src="storage/Logo.png" alt="logo" class="img-responsive"></a>
           </div>
           <div class="col-md-5">
-            <center style="margin-left: -100px;">
+            <center style="margin-left: -145px;">
               <h3 class="school_name"> Pune Cambridge Public School</h3>
               <span class="school_addr">Ambegaon</span> <br>
               <span class="school_grade"> <b> UDISE - 27251600131 </b></span>

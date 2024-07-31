@@ -418,379 +418,95 @@
 
   <!-- Banner Start here -->
   <section class="banner banner-two" id="mySliderSection">
-
     <div class="banner-slider swiper-container" style="width:100% !important; height: 600px !important;">
       <div class="swiper-wrapper">
 
 
+        <style>
+            .slider-container {
+                position: relative;
+                max-width: 100%;
+                margin: auto;
+                overflow: hidden;
+            }
 
-        <div style="background:url('storage/Homepage/Slider/1721208807IMG-20240717-WA0013%20(1.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            .slides {
+                display: flex;
+                transition: transform 0.5s ease-in-out;
+            }
 
-        <div style="background:url('storage/Homepage/Slider/17158484021630a9dd59c7497890b10fed8e03a5f8.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            .slide {
+                min-width: 100%;
+                box-sizing: border-box;
+            }
 
-        <div style="background:url('storage/Homepage/Slider/171584839019bd21f73d444489a87080d8ee5ceb5b.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            .prev, .next {
+                position: absolute;
+                top: 50%;
+                width: auto;
+                padding: 16px;
+                color: white;
+                font-weight: bold;
+                font-size: 18px;
+                cursor: pointer;
+                background-color: rgba(0, 0, 0, 0.5);
+                border: none;
+                transform: translateY(-50%);
+            }
 
-        <div style="background:url('storage/Homepage/Slider/1713250554slider.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Graduation Day 2024 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            .prev {
+                left: 0;
+            }
 
-        <div style="background:url('storage/Homepage/Slider/1713250951Slider1.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Summer Camp 2024 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            .next {
+                right: 0;
+            }
+        </style>
 
-        <div style="background:url('storage/Homepage/Slider/1708055823IMG-20240216-WA0000%20(1.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
 
-        <div
-          style="background:url('storage/Homepage/Slider/1697783719WhatsApp%20Image%202023-10-19%20at%201.34.16%20AM.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Math Exhibition 2023 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+    <div class="slider-container">
+        <div class="slides" id="slides">
+            <div class="slide">
+                <img src="{{ url('storage/banner1.jpg') }}" style="width:100%">
+            </div>
+            <div class="slide">
+                <img src="{{ url('storage/banner2.jpg') }}" style="width:100%">
+            </div>
+            <div class="slide">
+                <img src="{{ url('storage/banner3.jpg') }}" style="width:100%">
+            </div>
+        </div>
+        <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+        <button class="next" onclick="changeSlide(1)">&#10095;</button>
+    </div>
 
-        <div style="background:url('storage/Homepage/Slider/1696687823IMG-20230921-WA0023%20(1.html).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Ganpati Celebration </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+    <script>
+        let currentSlide = 0;
 
-        <div style="background:url('storage/Homepage/Slider/1696404082WA0032.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> EGN Education Awards </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+        function showSlide(index) {
+            const slides = document.getElementsByClassName("slide");
+            if (index >= slides.length) {
+                currentSlide = 0;
+            } else if (index < 0) {
+                currentSlide = slides.length - 1;
+            } else {
+                currentSlide = index;
+            }
 
-        <div style="background:url('storage/Homepage/Slider/1691568671IMG-20230808-WA0015%20(1.html).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> A Place To Learn And Celebrate Success Under Dynamic Leadership </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/16904399521690428891IMG-20230722-WA0010 (1).webp '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/16904399521690428891IMG-20230722-WA0010%20(1.html).webp ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Award for Peace Ambassador </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1673253503IMG-20221201-WA0009 (1) (1).jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1673253503IMG-20221201-WA0009%20(1.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Shiksha Gaurav Puraskar 2022 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1677028756Cygnet Planetarium.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1677028756Cygnet%20Planetarium.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Planetarium </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1687422530IMG-20230621-WA0083 (2) (1).jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1687422530IMG-20230621-WA0083%20(2.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Yoga Day </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1687925289IMG-20230625-WA0024 (1) (1).jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1687925289IMG-20230625-WA0024%20(1.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Ace Of Initiative Award </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1681273304IMG-20230411-WA0027.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1681273304IMG-20230411-WA0027.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Self Sustained Campus Supporting All Activity </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1666148397IMG-2022101 vv.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1666148397IMG-2022101%20vv.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Educational Excursion to Dr. Suresh Naik Space Spark </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/16703041001667926061pp.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/16703041001667926061pp.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> IKA- 2022 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1669093266IMG-20221104-WA0036.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1669093266IMG-20221104-WA0036.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Sports </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1669093338IMG-20221109-WA0009.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1669093338IMG-20221109-WA0009.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Sports </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/16904401051682309320IMG-20230424-WA0012 (2) (1).webp '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div
-          style="background:url('storage/Homepage/Slider/16904401051682309320IMG-20230424-WA0012%20(2.html) (1).webp ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Award By ISKON </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1679028475pf.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1679028475pf.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Science Exhibition 2022-23 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1706850785home slider.jpeg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1706850785home%20slider.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Republic Day Celebration </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1706852304slider.JPG '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1706852304slider.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Cultural Grooming For National Integrity </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1706852469home slider annaul day.JPG '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1706852469home%20slider%20annaul%20day.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Annual Day 2023-24 </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/166365996216002604002.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/166365996216002604002.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Well Equipped Laboratories </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1682755606WhatsApp Image 2023-04-19 at 08.53.30 (1).jpeg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div
-          style="background:url('storage/Homepage/Slider/1682755606WhatsApp%20Image%202023-04-19%20at%2008.53.html).jpeg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Summer Day Out Of Little Ones </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/16636599971660713277rsz_1img-20220812-wa0010.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/16636599971660713277rsz_1img-20220812-wa0010.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Music Increases Coordination Promote Emotional Developement Mastering Memorization </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1666180274labrary.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1666180274labrary.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Library To Enrich Intellectual Aesthetic Cultural And Emotional Growth </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/16636600131663658398IMG_9895 (3) (1).jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/16636600131663658398IMG_9895%20(3.html) (1).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Cultural Grooming For National Integrity </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1669094261IMG-20220810-WA0067vv.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1669094261IMG-20220810-WA0067vv.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Sports Ensuring Team Spirit And Leadership </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1679030218classroom (2).jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1679030218classroom%20(2.html).jpg ');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Class Room </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1672905831IMG-20230105-WA0036.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1672905831IMG-20230105-WA0036.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Class Room </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1672973835IMG-20230105-WA0033.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1672973835IMG-20230105-WA0033.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Class Room </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1672973870IMG-20230105-WA0034.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1672973870IMG-20230105-WA0034.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> Class Room </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
-        <!--<div style="background:url('/storage/Homepage/Slider/1675871231We are onw team photo.jpg '); height:440px; !important" class="banner-item slide-one swiper-slide" >-->
-        <div style="background:url('storage/Homepage/Slider/1675871231We%20are%20onw%20team%20photo.jpg');"
-          class="banner-item slide-one swiper-slide">
-          <div class="banner-overlay"></div>
-          <div class="container" style="min-height:200px !important;">
-            <div class="banner-content">
-              <h3> We Are One -Team Pune Cambridge </h3>
-            </div><!-- banner-content -->
-          </div><!-- container -->
-        </div><!-- slide item -->
+            const offset = -currentSlide * 100;
+            document.getElementById("slides").style.transform = `translateX(${offset}%)`;
+        }
 
-      </div><!-- swiper-wrapper -->
-      <div class="swiper-pagination"></div>
-    </div><!-- swiper-container -->
-  </section><!-- banner -->
+        function changeSlide(step) {
+            showSlide(currentSlide + step);
+        }
+
+        showSlide(currentSlide);
+    </script>
+
+    </div>
+    </div>
+  </section>
   <!-- Banner End here -->
 
 
@@ -1109,28 +825,28 @@
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-student"></i>
-              <span class="counter">320</span><span>+</span>
+              <span class="counter">450</span><span>+</span>
               <p>Total Students</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-construction"></i>
-              <span class="counter">12</span><span>+</span>
+              <span class="counter">25</span><span>+</span>
               <p>Class Rooms</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-school-bus"></i>
-              <span class="counter">24</span><span>+</span>
+              <span class="counter">12</span><span>+</span>
               <p>School Bus</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-people"></i>
-              <span class="counter">100</span><span>+</span>
+              <span class="counter">50</span><span>+</span>
               <p>Total Teachers</p>
             </div><!-- achievement item -->
           </div>

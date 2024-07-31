@@ -10,10 +10,10 @@
                 <center>
 
 
-                  <a href="index.html"><img src="#" alt="logo"
+                  <a href="index.html"><img src="{{ url('storage/footerlogo.png') }}" alt="logo"
                       class="img-responsive"></a>
                   <h6 style="font-size: 15px; font-weight: 700;">
-                    <font color="red">Pune Cambridge</font>
+                    <font color="red">Pune Cambridge Public School</font>
                   </h6>
                 </center>
               </div>
