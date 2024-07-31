@@ -72,7 +72,7 @@
   <div class="mobile-menu-area">
     <div class="logo-area">
       <a style="max-width:175px" class="logo" href="index.html"><img
-          src="storage/Homepage/Footer/Contact/1600260291bpsn_logo.png" alt="logo" class="img-responsive"></a>
+          src="storage/Logo.png" alt="logo" class="img-responsive"></a>
       <button type="button" class="navbar-toggle collapsed d-md-none" data-toggle="collapse"
         data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -186,13 +186,13 @@
         <div class="row">
           <div class="col-md-4">
             <a class="logo" href="index.html"><img style="float: left;"
-                src="storage/Homepage/Footer/Contact/1600256287bpsn.png" alt="logo" class="img-responsive"></a>
+                src="storage/Logo.png" alt="logo" class="img-responsive"></a>
           </div>
           <div class="col-md-5">
-            <center style="margin-left: -145px;">
-              <h3 class="school_name"> Pune&#039; Cambridge</h3>
+            <center style="margin-left: -100px;">
+              <h3 class="school_name"> Pune Cambridge Public School</h3>
               <span class="school_addr">Ambegaon</span> <br>
-              <span class="school_grade"> <b> AFFILIATED TO CBSE </b></span>
+              <span class="school_grade"> <b> UDISE - 27251600131 </b></span>
             </center>
           </div>
           <div class="col-md-3">
@@ -254,7 +254,7 @@
           <nav class="main-menu-area w-100">
             <div class="logo-area d-md-none">
               <a style="max-width:195px;padding:10px;" class="logo" href="index.html"><img
-                  src="storage/Homepage/Footer/Contact/1600260291bpsn_logo.png" alt="logo" class="img-responsive"></a>
+                  src="storage/Logo.png" alt="logo" class="img-responsive"></a>
 
               <button type="button" class="navbar-toggle collapsed d-md-none" data-toggle="collapse"
                 data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -301,7 +301,7 @@
 
 
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                  <a href="{{ url('/about') }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                     aria-expanded="false">About <span class="caret"></span></a>
                   {{-- <ul class="dropdown-menu">
                     <li><a href="About/about_display/1.html">Our Organization </a></li>
