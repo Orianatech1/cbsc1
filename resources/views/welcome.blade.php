@@ -752,13 +752,13 @@
 
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0030.jpg"
-              alt="/storage/photo_gallery/2/1721213414IMG-20240717-WA0030.jpg" class="img-responsive">
+              <img src="{{ url('storage/banner1.jpg') }}"
+              alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/photo_gallery/2/1721213414IMG-20240717-WA0030.jpg" data-rel="lightcase:myCollection"><i
+              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -766,13 +766,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg"
-              alt="/storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg" class="img-responsive">
+            <img src="storage/banner1.jpg"
+              alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/photo_gallery/2/1721213414IMG-20240717-WA0021.jpg" data-rel="lightcase:myCollection"><i
+              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -780,13 +780,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg"
-              alt="/storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg" class="img-responsive">
+            <img src="storage/banner1.jpg"
+              alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/photo_gallery/2/1721213414IMG-20240717-WA0020.jpg" data-rel="lightcase:myCollection"><i
+              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -794,13 +794,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/photo_gallery/2/1721213414IMG-20240717-WA0018.jpg"
-              alt="/storage/photo_gallery/2/1721213414IMG-20240717-WA0018.jpg" class="img-responsive">
+            <img src="storage/banner1.jpg"
+              alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/photo_gallery/2/1721213414IMG-20240717-WA0018.jpg" data-rel="lightcase:myCollection"><i
+              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -809,7 +809,7 @@
 
       </div><!-- gallery items -->
 
-      <div class="gallery-button"><a href="Gallery/photo_gallery_display.html" class="button-default">View More
+      <div class="gallery-button"><a href="#" class="button-default">View More
           Gallery</a></div>
 
     </div><!-- overlay -->
