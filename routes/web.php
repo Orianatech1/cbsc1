@@ -7,30 +7,30 @@ Route::get('/', function () {
 });
 
 Route::get('/', function () {
-    return view('about');
+    return view('pages.about');
 });
 
 Route::get('/', function () {
-    return view('gallery');
+    return view('pages.gallery');
 });
 
 Route::get('/', function () {
-    return view('facilities');
+    return view('pages.facilities');
 });
 
 Route::get('/', function () {
-    return view('contact');
+    return view('pages.contact');
 });
 
 Route::get('/', function () {
-    return view('admissions');
+    return view('pages.admissions');
 });
 
 Route::get('/', function () {
-    return view('academics');
+    return view('pages.academics');
 });
 
 Route::get('/', function () {
-    return view('mandatorypublicdisclosure');
+    return view('pages.mandatorypublicdisclosure');
 });
 
