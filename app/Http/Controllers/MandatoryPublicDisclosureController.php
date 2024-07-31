@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class MandatoryPublicDisclosureController extends Controller
 {
     public function index(){
-        return view('mandatorypublicdisclosure');
+        return view('pages.mandatorypublicdisclosure');
     }
 }
