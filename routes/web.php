@@ -6,16 +6,16 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/about', function () {
-    return view('pages.about');
+Route::get('/aboutourteam', function () {
+    return view('pages.about.aboutourteam');
 });
 
 Route::get('/gallery', function () {
-    return view('pages.gallery');
+    return view('pages.gallery.gallery');
 });
 
-Route::get('/facilities', function () {
-    return view('pages.facilities');
+Route::get('/assessment', function () {
+    return view('pages.facilities.assessment');
 });
 
 Route::get('/contact', function () {
@@ -34,3 +34,38 @@ Route::get('/mandatorypublicdisclosure', function () {
     return view('pages.mandatorypublicdisclosure');
 });
 
+Route::get('/aboutourorg', function () {
+    return view('pages.about.aboutourorg');
+});
+
+Route::get('/vissionmission', function () {
+    return view('pages.about.vissionmission');
+});
+
+Route::get('/stafflist', function () {
+    return view('pages.about.stafflist');
+});
+
+Route::get('/ourschool', function () {
+    return view('pages.about.ourschool');
+});
+
+Route::get('/mandatorypublicdisclosure', function () {
+    return view('pages.about.mandatorypublicdisclosure');
+});
+
+Route::get('/managingcommittee', function () {
+    return view('pages.about.managingcommittee');
+});
+
+Route::get('/affiliation', function () {
+    return view('pages.about.affiliation');
+});
+
+Route::get('/laboratories', function () {
+    return view('pages.facilities.laboratories');
+});
+
+Route::get('/schoolfacilities', function () {
+    return view('pages.facilities.schoolfacilities');
+});
