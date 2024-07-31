@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class FacilitiesController extends Controller
+class FeeDetailsController extends Controller
 {
     public function index(){
-        return view('pages.facilities');
+        return view('pages.admissions.fee-details');
     }
 }

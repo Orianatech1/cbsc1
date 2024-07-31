@@ -106,8 +106,8 @@
                     <li><a href="{{ url('/') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
 
-            </ul>
-          </li>
+          </ul>
+        </li>
 
           <li class="dropdown-submenu">
             <a href="#">Admission</a>
@@ -301,7 +301,7 @@
 
                   </ul>
                 </li>
-                <li><a href="About/about_display/13.html">Mandatory Public Disclosure</a></li>
+                <li><a href="{{ url('/mandatorypublicdisclosure') }}">Mandatory Public Disclosure</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                     aria-expanded="false">Admissions <span class="caret"></span></a>

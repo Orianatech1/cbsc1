@@ -1,9 +1,8 @@
 @extends('layout.main')
 
 @section('main-content')
-
-<img src="public/kidsacade/images/Untitled Project.jpg" >
-    <img class="image2" src="public/kidsacade/images/Untitled Project.jpg">
+<img src="{{url('public/kidsacade/images/Untitled Project.jpg')}}" >
+    <img class="image2" src="{{url('public/kidsacade/images/Untitled Project.jpg')}}">
 <h1>APPENDIX - IX</h1>
 <h2>Mandatory Public Disclosure</h2>
 
