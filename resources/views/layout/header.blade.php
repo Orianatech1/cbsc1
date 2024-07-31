@@ -28,6 +28,9 @@
 
     <!-- Flaticon -->
     <link href="kidsacade/assets/flaticon/flaticon.css" rel="stylesheet">
+    {{-- favicon --}}
+
+    <link rel="icon" type="image/png" href="storage/Logo.png">
 
     <!-- lightcase -->
     <link href="kidsacade/assets/css/lightcase.css" rel="stylesheet">
@@ -289,16 +292,16 @@
                                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
                                         <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
 
-                                        <li><a href="{{ url('/') }}">Vision and Mission </a></li>
+                                        <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
                                         <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
-                                        <li><a href="{{ url('/') }}">Managing Committee </a></li>
+                                        <li><a href="{{ url('/managingcommitee') }}">Managing Committee </a></li>
 
-                                        <li><a href="{{ url('/') }}">Affiliation </a></li>
+                                        <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
 
 
 
-                                        <li><a href="{{ url('/') }}">Staff List </a></li>
-                                        <li><a href="{{ url('/') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
+                                        <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
+                                        <li><a href="{{ url('/mandatorypublicdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
                                     </ul>
                                 </li>
@@ -309,13 +312,13 @@
                                         aria-haspopup="true" aria-expanded="false">Admissions <span
                                             class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="{{ url('/') }}">Admission Enquiry </a></li>
-                                        <li><a href="{{ url('/') }}">Admission Procedure &amp; Age Criteria </a></li>
-                                        <li><a href="{{ url('/') }}">Document Checklist </a></li>
+                                        <li><a href="{{ url('/admission-enquiry') }}">Admission Enquiry </a></li>
+                                        <li><a href="{{ url('/admission-procedure-age-criteria') }}">Admission Procedure &amp; Age Criteria </a></li>
+                                        <li><a href="{{ url('/document-checklist') }}">Document Checklist </a></li>
 
                                         <li><a href="{{ url('/') }}">School Brochure </a></li>
 
-                                        <li><a href="{{ url('/') }}">Fee Details </a></li>
+                                        <li><a href="{{ url('/fee-details') }}">Fee Details </a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
@@ -323,15 +326,15 @@
                                         aria-haspopup="true" aria-expanded="false">Academics <span
                                             class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="{{ url('/') }}">Curriculum Details </a></li>
+                                        <li><a href="{{ url('/curriculam-details') }}">Curriculum Details </a></li>
                                         <li><a href="{{ url('/') }}">Learning Resources </a></li>
 
-                                        <li><a href="{{ url('/') }}">Academic Calendar </a></li>
+                                        <li><a href="{{ url('/academic-calender') }}">Academic Calendar </a></li>
 
                                         <li><a href="{{ url('/') }}">Environmental Education </a></li>
-                                        <li><a href="{{ url('/') }}">Student Services </a></li>
+                                        <li><a href="{{ url('/school-best-practice') }}">Student Services </a></li>
 
-                                        <li><a href="{{ url('/') }}">Holiday List </a></li>
+                                        <li><a href="{{ url('/holiday-list') }}">Holiday List </a></li>
 
 
 
@@ -343,8 +346,8 @@
                                         aria-haspopup="true" aria-expanded="false">Facilities <span
                                             class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="{{ url('/') }}">Laboratories</a></li>
-                                        <li><a href="{{ url('/') }}">School Facilities</a></li>
+                                        <li><a href="{{ url('/laboratories') }}">Laboratories</a></li>
+                                        <li><a href="{{ url('/schoolfacilities') }}">School Facilities</a></li>
 
                                 </li>
                             </ul>

@@ -7,9 +7,7 @@
             <div class="footer-item">
               <div class="title">
                 <center>
-
-
-                  <a href="index.html"><img src="{{ url('storage/footerlogo.png') }}" alt="logo"
+                  <a href="{{ url('/') }}"><img style="max-width: 40%" src="{{ url('storage/footerlogo.png') }}" alt="logo"
                       class="img-responsive"></a>
                   <h6 style="font-size: 15px; font-weight: 700;">
                     <font color="red">Pune Cambridge Public School</font>
@@ -33,7 +31,7 @@
 
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="footer-item">
-              <h4 class="title">Our Campuses</h4>
+              <h4 class="title">Our Campus</h4>
               <ul class="twitter-post">
                 <li><a href="#">Ambegaon Campus </a></li>
 
