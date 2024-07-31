@@ -170,7 +170,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <a class="logo" href="index.html"><img style="float: left;" src="{{ url('storage/Logo.png') }}"
+                        <a class="logo" href="{{ url('/') }}"><img style="float: left;" src="{{ url('storage/Logo.png') }}"
                                 alt="logo" class="img-responsive"></a>
                     </div>
                     <div class="col-md-5">
@@ -238,7 +238,7 @@
                 <div class="row no-gutters">
                     <nav class="main-menu-area w-100">
                         <div class="logo-area d-md-none">
-                            <a style="max-width:195px;padding:10px;" class="logo" href="index.html"><img
+                            <a style="max-width:195px;padding:10px;" class="logo" href="{{ url('/') }}"><img
                                     src="storage/Homepage/Footer/Contact/1600260291bpsn_logo.png" alt="logo"
                                     class="img-responsive"></a>
 
@@ -274,7 +274,7 @@
 
                             <ul class="menu">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                    <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown" role="button"
                                         aria-haspopup="true" aria-expanded="false">Home
 
                                     </a>
@@ -286,7 +286,7 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                                         aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="">Our Organization </a></li>
+                                        <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
                                         <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
 
                                         <li><a href="{{ url('/') }}">Vision and Mission </a></li>

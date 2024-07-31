@@ -706,7 +706,7 @@
         </div>
         <div class="col-lg-4 col-xs-12">
           <div class="feature-image">
-            <img src="storage/Homepage/WhyCPSNImage/160043241216003130396.jpg" alt="feature image"
+            <img src="storage/banner1.jpg" alt="feature image"
               class="img-responsive" style="height: 360px; width:360px;">
           </div>
         </div>

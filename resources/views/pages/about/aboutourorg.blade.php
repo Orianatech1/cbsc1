@@ -1,5 +1,7 @@
 
+@extends('layout.main')
 
+@section('main-content')
 
 
 
@@ -9,7 +11,7 @@
         <div class="container">
         <h3>Our Organization</h3>
         <ul>
-            <li><a href="../../index.html">Home /</a></li>
+            <li><a href="{{ url('/') }}">Home /</a></li>
             <li>About / Our Organization</li>
         </ul>
         </div><!-- container -->
@@ -35,7 +37,7 @@
 
                                                                           <div class="post-content">
                                           <div class="post-image">
-                                              <center><img src="../../storage/Menus/About/1/jspm.jpg" alt="post image" class="img-responsive"></center>
+                                              <center><img src="storage/banner2.jpg" alt="post image" class="img-responsive"></center>
                                           </div>
                                           <h3>JSPM-TSSM Overview</h3>
                                           <p>
@@ -67,3 +69,6 @@
           </div>
         </section>
       <!-- Blog Post End here -->
+
+
+      @endsection
