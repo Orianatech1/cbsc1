@@ -48,42 +48,42 @@
                                 <tr>
                                     <td>1</td>
                                     <td>NAME OF THE SCHOOL</td>
-                                    <td>Blossom Public School &amp; Jr. College (New), Narhe</td>
+                                    <td>Pune Cambridge Public School, Ambegaon</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td>AFFILIATION NO (IF APPLICABLE)</td>
-                                    <td>1130478</td>
+                                    <td>AFFILIATION NO</td>
+                                    <td>UDISE - 27251600131</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td>SCHOOL CODE (IF APPLICABLE)</td>
-                                    <td>30446</td>
+                                    <td>SCHOOL CODE</td>
+                                    <td>141111</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td>COMPLETE ADDRESS WITH PINCODE</td>
-                                    <td>S.No 12/2/2,&nbsp; Narhe, Tal: Haveli Dist: Pune - 411041</td>
+                                    <td>COMPLETE ADDRESS</td>
+                                    <td>Pune Cambridge Public School, Sr. No 28. Jijamata chowk, Behind Ambegaon Pathar Police Chowki, Ambegaon Pathar- Pune 411046</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>PRINCIPAL NAME</td>
-                                    <td>Mrs. Vidhyut Sahare</td>
+                                    <td>Mrs. Kunjir Mam</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
                                     <td>PRINCIPAL QUALIFICATION</td>
-                                    <td>M.A. B.ED.D.S.M.</td>
+                                    <td>M.A. B.ED.</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
                                     <td>SCHOOL E-MAIL ID</td>
-                                    <td><a href="mailto:principal@tssmcpsn.edu.in">principal@jspmbpsn.edu.in</a></td>
+                                    <td><a href="mailto:principal@punecambridge.org">principal@punecambridge.org</a></td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td>CONTACT DETAILS (LANDLINE MOBILE)</td>
-                                    <td>020-24608801</td>
+                                    <td>CONTACT DETAILS</td>
+                                    <td> 020 - 24363600 / 34363300,  9011032856</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -121,7 +121,7 @@
                                         <p>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF AFFILIATION,
                                             IF ANY</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A1.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
@@ -129,7 +129,7 @@
                                         <p>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS
                                             APPLICABLE</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A2.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
@@ -137,7 +137,7 @@
                                         <p>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE BY THE STATE
                                             GOVT./UT</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A3.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
@@ -145,7 +145,7 @@
                                         <p>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT&#39;S RENEWAL
                                             IF APPLICABLE</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A4.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
@@ -153,14 +153,14 @@
                                         <p>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE
                                         </p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A5.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
                                     <td>
                                         <p>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A6.pdf">View</a></td>
+                                    <td><a href="pdf/staff.pdf">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
@@ -169,19 +169,19 @@
                                             AFFILIATION/UPGRADATION/ EXTENSION OF AFFILIATION OR SELF CERTIFIVATION BY
                                             SCHOOL</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A7.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>
                                         <p>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</p>
                                     </td>
-                                    <td><a href="../../storage/MPD2022/A8.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
                                     <td>LAND CERTIFICATE</td>
-                                    <td><a href="../../storage/MPD2022/A9.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -214,38 +214,38 @@
                                 <tr>
                                     <td><strong>1</strong></td>
                                     <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                    <td><a href="../../Admission/admission_page_display/4.html">View</a></td>
+                                    <td><a href="pdf/staff.pdf">View</a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>2</strong></td>
                                     <td>ANNUAL ACADEMIC CALENDER</td>
-                                    <td><a href="../../Academic/academic_page_display/4.html">View</a></td>
+                                    <td><a href="pdf/staff.pdf">View</a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>3</strong></td>
                                     <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                                    <td><a href="6.html">View</a></td>
+                                    <td><a href="pdf/staff.pdf">View</a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>4</strong></td>
                                     <td>LIST OF PARENTS TEACHERS ASSOCIATION EPTA MEMBERS</td>
-                                    <td><a href="../../storage/MPD2022/EPTAMembers.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>LAST THREE YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY</td>
-                                    <td><a href="../../storage/MPD2022/LastThreeYearResult.pdf" target="_blank">View</a>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
                                     <td>WOMEN&#39;S GRIEVANCE REDRESSAL COMMITTEE</td>
-                                    <td><a href="../../storage/MPD2022/C6.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
                                     <td>POCSO</td>
-                                    <td><a href="../../storage/MPD2022/C7.pdf" target="_blank">View</a></td>
+                                    <td><a href="pdf/staff.pdf" target="_blank">View</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -293,8 +293,8 @@
                                         <p>PRINCIPAL</p>
                                     </td>
                                     <td>
-                                        <p>MRS. VIDHYUT SAHARE<br />
-                                            M.A. (ENG.) B.Ed.D.S.M.</p>
+                                        <p>MRS. KUNJIR MAM<br />
+                                            M.A. B.Ed.</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -306,7 +306,7 @@
                                         <p>TOTAL NO. OF TEACHRES</p>
                                     </td>
                                     <td>
-                                        <p>114</p>
+                                        <p>91</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -317,7 +317,7 @@
                                         <p>PGT</p>
                                     </td>
                                     <td>
-                                        <p>09</p>
+                                        <p>07</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -328,7 +328,7 @@
                                         <p>TGT</p>
                                     </td>
                                     <td>
-                                        <p>53</p>
+                                        <p>35</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -339,12 +339,12 @@
                                         <p>PRT</p>
                                     </td>
                                     <td>
-                                        <p>53</p>
+                                        <p>35</p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
-                                        <p>3</p>
+                                        <p>2</p>
                                     </td>
                                     <td>
                                         <p>TEACHERS SECTION RATIO</p>
@@ -361,11 +361,11 @@
                                         <p>DETAILS OF SPECIAL EDUCATOR</p>
                                     </td>
                                     <td>
-                                        <p>DR. SWATI MANDLIK</p>
+                                        <p>DR. KUNJIR SIR</p>
 
                                         <p>&nbsp;</p>
 
-                                        <p>B.H.M.S.</p>
+                                        <p>M.B.B.S.</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -376,7 +376,7 @@
                                         <p>DETAILS OF COUNSELLOR AND WELLNESS TEACHER</p>
                                     </td>
                                     <td>
-                                        <p>MS.Medha Inamdar&nbsp; , M.A. Psychology&nbsp;</p>
+                                        <p>MR. MAYUR SIR&nbsp; , B.E. CIVIL&nbsp;</p>
                                     </td>
                                 </tr>
                             </tbody>
@@ -426,7 +426,7 @@
                                         <p>TOTAL CAMPUS AREA OF THE SCHOOL (IN SQ MTR)</p>
                                     </td>
                                     <td>
-                                        <p>12000 Sq mtr</p>
+                                        <p>15000 Sq mtr</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -497,7 +497,7 @@
 
 
                     <div class="post-content">
-                        <h3>SARAS 2022-2023</h3>
+                        <h3>SARAS 2023-2024</h3>
                         <p>
                         <table border="1">
                             <tbody>
@@ -508,8 +508,8 @@
                                 </tr>
                                 <tr>
                                     <td>1</td>
-                                    <td>SARAS 2022-2023</td>
-                                    <td><a href="#">View File</a></td>
+                                    <td>SARAS 2023-2024</td>
+                                    <td><a href="pdf/staff.pdf">View File</a></td>
                                 </tr>
                             </tbody>
                         </table>

@@ -95,10 +95,10 @@
                     <a href="{{ url('/') }}">About</a>
                     <ul class="mobile-submenu">
                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
-                        <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
+
 
                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
-                        <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
+                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
                         <li><a href="{{ url('/managingcommittee') }}">Managing Committee </a></li>
 
                         <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
@@ -250,10 +250,10 @@
                                         <li><a href="{{ url('/aboutourteam') }}">Our Team </a></li>
                                         <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
                                         <li><a href="{{ url('/managingcommittee') }}">Managing Committee </a></li>
-                                        <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
+
 
                                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
-                                        <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
+                                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
                                         <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
                                         <li><a href="{{ url('/manpubdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 

@@ -58,6 +58,10 @@ Route::get('/ourschool', function () {
     return view('pages.about.ourschool');
 });
 
+Route::get('/pmessage', function () {
+    return view('pages.about.pmessage');
+});
+
 Route::get('/manpubdisclosure', function () {
     return view('pages.about.manpubdisclosure');
 });
