@@ -6,6 +6,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/about', function () {
+    return view('pages.about.about');
+});
+
 Route::get('/aboutourteam', function () {
     return view('pages.about.aboutourteam');
 });
@@ -22,8 +26,12 @@ Route::get('/contact', function () {
     return view('pages.contact');
 });
 
-Route::get('/admissions', function () {
-    return view('pages.admissions');
+Route::get('/admission-enquiry', function () {
+    return view('pages.admissions.admission-enquiry');
+});
+
+Route::get('/admission-procedure-age-criteria', function () {
+    return view('pages.admissions.admission-procedure-age-criteria');
 });
 
 Route::get('/academics', function () {

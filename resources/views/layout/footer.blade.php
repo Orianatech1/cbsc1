@@ -17,9 +17,11 @@
               <div class="footer-about">
                 <ul>
 
-                  <li><span><i class="fa fa-home" aria-hidden="true"></i></span>Ambegaon,
-                    Pune-41</li>
-                  <li><span><i class="fa fa-phone" aria-hidden="true"></i></span>020-0000000000 / 00</li>
+                  <li><span><i class="fa fa-home" aria-hidden="true"></i></span>
+                    PCPS, Jijamata chowk, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Behind Ambegaon Pathar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Police Chowki,
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ambegaon Pathar- Pune &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 411046
+                    </li>
+                  <li><span><i class="fa fa-phone" aria-hidden="true"></i></span>020 - 24363600/34363300 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9011032856</li>
 
                   <li><span><i class="fa fa-envelope-o" aria-hidden="true"></i></span>contact@punecambridge.org </li>
                   <li><span><i class="fa fa-globe" aria-hidden="true"></i></span>www.punecambridge.org </li>

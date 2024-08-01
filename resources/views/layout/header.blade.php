@@ -347,6 +347,7 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="{{ url('/laboratories') }}">Laboratories</a></li>
                                         <li><a href="{{ url('/schoolfacilities') }}">School Facilities</a></li>
+                                        <li><a href="{{ url('/assessment') }}">Assessment</a></li>
 
                                 </li>
                             </ul>

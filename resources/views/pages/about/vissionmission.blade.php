@@ -1,3 +1,6 @@
+@extends('layout.main')
+
+@section('main-content')
 
 
 
@@ -66,3 +69,4 @@ border-top:1px solid #f0f0f0;
   </section>
 <!-- Blog Post End here -->
 
+@endsection
