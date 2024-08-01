@@ -77,7 +77,7 @@
             <h3>About Us</h3>
             <ul>
                 <li><a href="{{ url('/welcome') }}">Home /</a></li>
-                <li>About</li>
+                <li>About PCPS</li>
             </ul>
         </div><!-- container -->
     </div><!-- overlay -->
