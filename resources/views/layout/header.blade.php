@@ -255,11 +255,11 @@
                                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
                                         <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
                                         <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
-                                        <li><a href="{{ url('/mandatorypublicdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
+                                        <li><a href="{{ url('/manpubdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
                                     </ul>
                                 </li>
-                                <li><a href="{{ url('/mandatorypublicdisclosure') }}">Mandatory Public Disclosure</a>
+                                <li><a href="{{ url('/manpubdisclosure') }}">Mandatory Public Disclosure</a>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
