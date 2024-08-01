@@ -12,7 +12,7 @@
         <div class="container">
             <h3>Staff List</h3>
             <ul>
-                <li><a href="../../index.html">Home /</a></li>
+                <li><a href="{{ url('/') }}">Home /</a></li>
                 <li>About / Staff List</li>
             </ul>
         </div><!-- container -->
@@ -37,7 +37,7 @@
 
 
                     <h4>1. Staff List</h4>
-                    <object data="../../storage/Menus/About/14/STAFF%20LIST%202024%20UPDATEDVV.pdf"
+                    <object data="pdf/staff.pdf"
                         type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
 
 
