@@ -189,7 +189,7 @@
                                 <i class="icon flaticon-phone-call"></i>
                                 <div class="content">
                                     <p style='font-size:15px'>Call Us </p>
-                                    <span style='font-size:15px'> 020-0000000000/00 </span>
+                                    <span style='font-size:15px'>020 - 24363600/34363300 </span>
                                 </div>
                             </li>
                             <li>
@@ -242,7 +242,7 @@
                     <nav class="main-menu-area w-100">
                         <div class="logo-area d-md-none">
                             <a style="max-width:195px;padding:10px;" class="logo" href="{{ url('/') }}"><img
-                                    src="storage/Homepage/Footer/Contact/1600260291bpsn_logo.png" alt="logo"
+                                    src="storage/Logo.png" alt="logo"
                                     class="img-responsive"></a>
 
                             <button type="button" class="navbar-toggle collapsed d-md-none" data-toggle="collapse"
@@ -289,17 +289,16 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                                         aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
+                                        <li><a href="{{ url('/about') }}">About Us </a></li>
                                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
+
+                                        <li><a href="{{ url('/aboutourteam') }}">Our Team </a></li>
+                                        <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
+                                        <li><a href="{{ url('/managingcommitee') }}">Managing Committee </a></li>
                                         <li><a href="{{ url('/') }}">Founder Secretary&#039;s Message </a></li>
 
                                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
                                         <li><a href="{{ url('/') }}">Principal&#039;s Message </a></li>
-                                        <li><a href="{{ url('/managingcommitee') }}">Managing Committee </a></li>
-
-                                        <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
-
-
-
                                         <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
                                         <li><a href="{{ url('/mandatorypublicdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
