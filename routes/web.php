@@ -43,8 +43,16 @@ Route::get('/admission-procedure-age-criteria', function () {
     return view('pages.admissions.admission-procedure-age-criteria');
 });
 
-Route::get('/academics', function () {
-    return view('pages.academics');
+Route::get('/curriculam-details', function () {
+    return view('pages.academics.curriculam-details');
+});
+
+Route::get('/academic-achievements', function () {
+    return view('pages.academics.academic-achievements');
+});
+
+Route::get('/academic-calender', function () {
+    return view('pages.academics.academic-calender');
 });
 
 Route::get('/mandatorypublicdisclosure', function () {
@@ -89,4 +97,20 @@ Route::get('/laboratories', function () {
 
 Route::get('/schoolfacilities', function () {
     return view('pages.facilities.schoolfacilities');
+});
+
+Route::get('/booklist', function () {
+    return view('pages.academics.booklist');
+});
+
+Route::get('/learning', function () {
+    return view('pages.academics.learning');
+});
+
+Route::get('/holiday-list', function () {
+    return view('pages.academics.holiday-list');
+});
+
+Route::get('/school-best-practice', function () {
+    return view('pages.academics.school-best-practice');
 });

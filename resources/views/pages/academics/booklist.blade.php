@@ -2,19 +2,24 @@
 
 @section('main-content')
 
+
 <!-- Page Header Start here -->
 <section class="page-header section-notch">
     <div class="overlay">
         <div class="container">
-            <h3>School Best Practice</h3>
+            <h3>Book List</h3>
             <ul>
-                <li><a href="../../index.html">Home /</a></li>
-                <li>Academics/ School Best Practice</li>
+                <li><a href="#">Home /</a></li>
+                <li>Academics
+                    / Book List
+                </li>
             </ul>
         </div><!-- container -->
     </div><!-- overlay -->
 </section><!-- page header -->
 <!-- Page Header End here -->
+
+
 <!-- Blog Post Start here -->
 <section class="blog-post padding-120">
     <div class="container">
@@ -23,26 +28,15 @@
                 <div class="post-items">
                     <div class="post-item">
                         <div class="post-content">
-                            <h3><a href="#">Academic Management</a></h3>
-                            <p>Academic Management in PCPS is done by using resources to achieve educational goal.</p>
-
-                            <p><strong>Teaching learning process&nbsp;</strong>is monitored on daily basis, Teachers are
-                                masters in their subject &amp; are professionally trained. They try to meet expectation
-                                of the society by using updated teaching methodologies.</p>
-
-                            <p><strong>Teachers undergo training&nbsp;</strong>to keep abreast with new knowledge
-                                practices. Teachers communicate with parents about progress of their child.</p>
-
-                            <p><strong>Time management&nbsp;</strong>is a key to success for academic progress various
-                                curricular activities are carried out in the school to develop reasoning, psychomotor
-                                &amp; emotional learning. Teachers work hard to strike balance between syllabus,
-                                curricular books &amp; co-curricular activities.</p>
-
-                            <p>All round development essentially includes intellectual, moral &amp; social development.
-                                School strives to achieve it by good academic management.</p>
+                            <h3><a href="#">BOOK LIST 2024-25</a></h3>
+                            <object data="pdf/staff.pdf"
+                                type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
+                            <p>BOOK LIST 2024-25</p>
                         </div>
                     </div><!-- post item -->
                 </div><!-- post items -->
+
+
             </div>
             <div class="col-md-3">
                 <div class="sidebar">
@@ -63,12 +57,16 @@
                         </ul>
                     </div>
 
+
+
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Blog Post End here -->
+
+
 
 
 

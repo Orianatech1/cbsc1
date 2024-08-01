@@ -286,16 +286,16 @@
                                             class="caret"></span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="{{ url('/curriculam-details') }}">Curriculum Details </a></li>
-                                        <li><a href="{{ url('/') }}">Learning Resources </a></li>
-                                        <li><a href="{{ url('/') }}">School Best Practices </a></li>
+                                        <li><a href="{{ url('/learning') }}">Learning Resources </a></li>
+                                        <li><a href="{{ url('/school-best-practice') }}">School Best Practices </a></li>
 
                                         <li><a href="{{ url('/academic-calender') }}">Academic Calendar </a></li>
 
 
-                                        <li><a href="{{ url('/school-best-practice') }}">Book List </a></li>
+                                        <li><a href="{{ url('/booklist') }}">Book List </a></li>
 
                                         <li><a href="{{ url('/holiday-list') }}">Holiday List </a></li>
-                                        <li><a href="{{ url('/holiday-list') }}">Achievements </a></li>
+                                        <li><a href="{{ url('/academic-achievements') }}">Achievements </a></li>
 
 
 
