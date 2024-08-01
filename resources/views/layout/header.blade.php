@@ -96,17 +96,14 @@
                     <ul class="mobile-submenu">
                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
 
+                                        <li><a href="{{ url('/aboutourteam') }}">Founder&#039;s Secretay Message </a></li>
+                                        <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
+                                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
+                                        <li><a href="{{ url('/affiliation') }}">Collaboration </a></li>
+                                        <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
+                                        <li><a href="{{ url('/managingcommittee') }}">Managing Committee </a></li>
 
-                        <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
-                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
-                        <li><a href="{{ url('/managingcommittee') }}">Managing Committee </a></li>
-
-                        <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
-
-
-
-                        <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
-                        <li><a href="{{ url('/manadatorypublicdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
+                                        <li><a href="{{ url('/manpubdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
 
                     </ul>
@@ -119,7 +116,7 @@
                         <li><a href="{{ url('/admission-procedure-age-criteria') }}">Admission Procedure &amp; Age Criteria </a></li>
                         <li><a href="{{ url('/document-checklist') }}">Document Checklist </a></li>
 
-                        <li><a href="{{ url('/') }}">School Brochure </a></li>
+                        <li><a href="{{ url('/') }}">Prospectus </a></li>
 
                         <li><a href="{{ url('/fee-details') }}">Fee Details </a></li>
                     </ul>
@@ -130,13 +127,15 @@
                     <ul class="mobile-submenu">
                         <li><a href="{{ url('/curriculam-details') }}">Curriculum Details </a></li>
                         <li><a href="{{ url('/') }}">Learning Resources </a></li>
+                        <li><a href="{{ url('/') }}">School Best Practices </a></li>
 
                         <li><a href="{{ url('/academic-calender') }}">Academic Calendar </a></li>
 
-                        <li><a href="{{ url('/') }}">Environmental Education </a></li>
-                        <li><a href="{{ url('/school-best-practice') }}">Student Services </a></li>
+
+                        <li><a href="{{ url('/school-best-practice') }}">Book List </a></li>
 
                         <li><a href="{{ url('/holiday-list') }}">Holiday List </a></li>
+                        <li><a href="{{ url('/holiday-list') }}">Achievements </a></li>
 
                 </li>
 
@@ -148,7 +147,7 @@
                 <ul class="mobile-submenu">
                     <li><a href="{{ url('/laboratories') }}">Laboratories</a></li>
                     <li><a href="{{ url('/schoolfacilities') }}">School Facilities</a></li>
-
+                    <li><a href="{{ url('/assessment') }}">Assessment</a></li>
 
                 </ul>
             </li>
@@ -233,9 +232,12 @@
                             <ul class="menu">
                                 <li class="dropdown">
                                     <a href="{{ url('/') }}" class="dropdown-toggle" data-toggle="dropdown" role="button"
-                                        aria-haspopup="true" aria-expanded="false">Home
+                                        aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span>
 
                                     </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="{{ url('/about') }}">PCPS </a></li>
+                                    </ul>
 
                                 </li>
 
@@ -244,17 +246,20 @@
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                                         aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="{{ url('/about') }}">About Us </a></li>
+
                                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
 
-                                        {{-- <li><a href="{{ url('/aboutourteam') }}">Our Team </a></li> --}}
-                                        <li><a href="{{ url('/affiliation') }}">Affiliation </a></li>
+                                        <li><a href="{{ url('/aboutourteam') }}">Founder&#039;s Secretay Message </a></li>
+                                        <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
+                                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
+                                        <li><a href="{{ url('/affiliation') }}">Collaboration </a></li>
+                                        <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
                                         <li><a href="{{ url('/managingcommittee') }}">Managing Committee </a></li>
 
 
-                                        <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
-                                        <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
-                                        <li><a href="{{ url('/stafflist') }}">Staff List </a></li>
+
+
+
                                         <li><a href="{{ url('/manpubdisclosure') }}">MANDATORY PUBLIC DISCLOSURE </a></li>
 
                                     </ul>
@@ -270,7 +275,7 @@
                                         <li><a href="{{ url('/admission-procedure-age-criteria') }}">Admission Procedure &amp; Age Criteria </a></li>
                                         <li><a href="{{ url('/document-checklist') }}">Document Checklist </a></li>
 
-                                        <li><a href="{{ url('/') }}">School Brochure </a></li>
+                                        <li><a href="{{ url('/') }}">Prospectus </a></li>
 
                                         <li><a href="{{ url('/fee-details') }}">Fee Details </a></li>
                                     </ul>
@@ -282,13 +287,15 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="{{ url('/curriculam-details') }}">Curriculum Details </a></li>
                                         <li><a href="{{ url('/') }}">Learning Resources </a></li>
+                                        <li><a href="{{ url('/') }}">School Best Practices </a></li>
 
                                         <li><a href="{{ url('/academic-calender') }}">Academic Calendar </a></li>
 
-                                        <li><a href="{{ url('/') }}">Environmental Education </a></li>
-                                        <li><a href="{{ url('/school-best-practice') }}">Student Services </a></li>
+
+                                        <li><a href="{{ url('/school-best-practice') }}">Book List </a></li>
 
                                         <li><a href="{{ url('/holiday-list') }}">Holiday List </a></li>
+                                        <li><a href="{{ url('/holiday-list') }}">Achievements </a></li>
 
 
 

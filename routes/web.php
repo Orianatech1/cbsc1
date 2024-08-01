@@ -30,6 +30,15 @@ Route::get('/admission-enquiry', function () {
     return view('pages.admissions.admission-enquiry');
 });
 
+
+Route::get('/document-checklist', function () {
+    return view('pages.admissions.document-checklist');
+});
+
+Route::get('/fee-details', function () {
+    return view('pages.admissions.fee-details');
+});
+
 Route::get('/admission-procedure-age-criteria', function () {
     return view('pages.admissions.admission-procedure-age-criteria');
 });
