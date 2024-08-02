@@ -24,33 +24,33 @@
                     <div class="product-item-grid">
                         <div class="pro-item">
                             <div class="pro-image cd-item" id="prdct1">
-                                <img src="storage/banner1.jpg" style="height: 260px; width:288px;" alt="product image"
+                                <img src="img/old/1 (8).jpeg" style="height: 260px; width:288px;" alt="product image"
                                     class="img-responsive">
                             </div>
                             <div class="pro-content" style="height: 100px !important;">
-                                <strong><a href="#">STD 10 Result 2024</a></strong>
+                                <strong><a href="#">Winners</a></strong>
                             </div><!-- pro-content -->
                         </div> <!-- pro item -->
                     </div><!-- product-item -->
                     <div class="product-item-grid">
                         <div class="pro-item">
                             <div class="pro-image cd-item" id="prdct2">
-                                <img src="storage/banner1.jpg" style="height: 260px; width:288px;" alt="product image"
+                                <img src="img/old/1 (7).jpeg" style="height: 260px; width:288px;" alt="product image"
                                     class="img-responsive">
                             </div>
                             <div class="pro-content" style="height: 100px !important;">
-                                <strong><a href="#">STD 12 Result 2024</a></strong>
+                                <strong><a href="#">Winners</a></strong>
                             </div><!-- pro-content -->
                         </div> <!-- pro item -->
                     </div><!-- product-item -->
                     <div class="product-item-grid">
                         <div class="pro-item">
                             <div class="pro-image cd-item" id="prdct3">
-                                <img src="storage/banner1.jpg" style="height: 260px; width:288px;" alt="product image"
+                                <img src="img/old/1 (11).jpeg" style="height: 260px; width:288px;" alt="product image"
                                     class="img-responsive">
                             </div>
                             <div class="pro-content" style="height: 100px !important;">
-                                <strong><a href="#">Gold Medal Winners In Olimpiad Enlgish</a></strong>
+                                <strong><a href="#">Winners</a></strong>
                             </div><!-- pro-content -->
                         </div> <!-- pro item -->
                     </div><!-- product-item -->

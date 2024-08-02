@@ -63,14 +63,33 @@
 <body id="scroll-top">
 
     <!-- Preloader start here -->
-
     <div id="loader-wrapper">
         <div id="loader"></div>
-        <div class="loader-section section-left"></div>
-        <div class="loader-section section-right"></div>
-    </div>
-    <!-- Preloader end here -->
+      </div>
+      <style>
+        #loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99;
+  background: #fff; /* Optional: Background color */
+}
 
+#loader {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 150px; /* Adjust size as needed */
+  height: 150px; /* Adjust size as needed */
+  margin: -75px 0 0 -75px; /* Center the loader */
+  background: url('img/activity/1496.gif') no-repeat center center; /* Replace with your GIF path */
+  background-size: contain;
+}
+
+      </style>
     <!-- mobile menu start here -->
     <div class="mobile-menu-area">
         <div class="logo-area">
@@ -96,7 +115,7 @@
                     <ul class="mobile-submenu">
                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
 
-                                        <li><a href="{{ url('/aboutourteam') }}">Founder&#039;s Secretay Message </a></li>
+                                        <li><a href="{{ url('/aboutourteam') }}">President&#039;s Message </a></li>
                                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
                                         <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
                                         <li><a href="{{ url('/affiliation') }}">Collaboration </a></li>
@@ -243,7 +262,7 @@
 
                                         <li><a href="{{ url('/aboutourorg') }}">Our Organization </a></li>
 
-                                        <li><a href="{{ url('/aboutourteam') }}">Founder&#039;s Secretay Message </a></li>
+                                        <li><a href="{{ url('/aboutourteam') }}">President&#039;s Message </a></li>
                                         <li><a href="{{ url('/vissionmission') }}">Vision and Mission </a></li>
                                         <li><a href="{{ url('/pmessage') }}">Principal&#039;s Message </a></li>
                                         <li><a href="{{ url('/affiliation') }}">Collaboration </a></li>

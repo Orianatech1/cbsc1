@@ -62,19 +62,19 @@
               <ul class="photos">
                 <li>
 
-                  <img src="storage/banner1.jpg"
+                  <img src="{{ url('img/activity/1 (14).jpg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="storage/banner1.jpg"
+                  <img src="{{ url('img/activity/1 (14).jpg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="storage/banner1.jpg"
+                  <img src="{{ url('img/activity/1 (14).jpg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>

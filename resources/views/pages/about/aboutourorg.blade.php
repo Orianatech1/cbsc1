@@ -30,7 +30,7 @@
 
                     <div class="post-content">
                         <div class="post-image">
-                            <center><img src="storage/banner2.jpg" alt="post image" class="img-responsive"></center>
+                            <center><img src="img/activity/Cafeteria.jpg" style="max-height: 40%" alt="post image" class="img-responsive"></center>
                         </div>
                         <h3>PCPS Overview</h3>
                         <p>

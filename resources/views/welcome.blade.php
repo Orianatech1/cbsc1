@@ -227,7 +227,7 @@
         </div>
         <div class="col-lg-4 col-xs-12">
           <div class="feature-image">
-            <img src="storage/banner1.jpg" alt="feature image"
+            <img src="img/activity/1 (10).jpg" alt="feature image"
               class="img-responsive" style="height: 360px; width:360px;">
           </div>
         </div>
@@ -273,13 +273,13 @@
 
         <div class="gallery-item">
           <div class="gallery-image">
-              <img src="{{ url('storage/banner1.jpg') }}"
+              <img src="{{ url('img/activity/1 (11).jpg') }}"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/activity/1 (11).jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -287,13 +287,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/banner1.jpg"
+            <img src="img/activity/1 (15).jpg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/activity/1 (15).jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -301,13 +301,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/banner1.jpg"
+            <img src="img/activity/1 (16).jpg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/activity/1 (16).jpg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -315,13 +315,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/banner1.jpg"
+            <img src="img/activity/1 (14).jpg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/activity/1 (14).jpg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>

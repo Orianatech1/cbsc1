@@ -40,7 +40,7 @@
 
                                                                           <div class="post-content">
                                           <div class="post-image">
-                                              <center><img src="storage/banner1.jpg" alt="post image" class="img-responsive"></center>
+                                              <center><img src="img/activity/images.png" alt="post image" class="img-responsive"></center>
                                           </div>
                                           <h3>Dear Parents,</h3>
                                           <p>
