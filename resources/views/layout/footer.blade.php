@@ -33,9 +33,12 @@
 
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="footer-item">
-              <h4 class="title">Our Campus</h4>
+              <h4 class="title">Quick Links</h4>
               <ul class="twitter-post">
-                <li><a href="#">Ambegaon Campus </a></li>
+                <li><a href="{{ url('/') }}">Home </a></li>
+                <li><a href="{{ url('/about') }}">About </a></li>
+                <li><a href="{{ url('/manpubdisclosure') }}">Mandatory Public Disclosure </a></li>
+                <li><a href="{{ url('/contact') }}">Contact Us </a></li>
 
               </ul>
             </div>
@@ -43,7 +46,7 @@
 
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="footer-item">
-              <h4 class="title">Quick Links</h4>
+              <h4 class="title">CBSC Links</h4>
               <ul class="twitter-post">
                 <li><a href="http://cbse.nic.in/" target="_blank">CBSE</a></li>
                 <li><a href="http://cbseaff.nic.in/cbse_aff/welcome.aspx" target="_blank">School Affiliation</a></li>
