@@ -475,6 +475,15 @@
             <div class="slide">
                 <img src="{{ url('storage/banner3.jpg') }}" style="width:100%">
             </div>
+            <div class="slide">
+                <img src="{{ url('img/old/1 (3).jpeg') }}" style="width:100%">
+            </div>
+            <div class="slide">
+                <img src="{{ url('img/old/1 (5).jpeg') }}" style="width:100%">
+            </div>
+            <div class="slide">
+                <img src="{{ url('img/old/1 (6).jpeg') }}" style="width:100%">
+            </div>
         </div>
         <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
         <button class="next" onclick="changeSlide(1)">&#10095;</button>
@@ -706,7 +715,7 @@
         </div>
         <div class="col-lg-4 col-xs-12">
           <div class="feature-image">
-            <img src="storage/banner1.jpg" alt="feature image"
+            <img src="{{ url('img/old/1 (6).jpeg') }}" alt="feature image"
               class="img-responsive" style="height: 360px; width:360px;">
           </div>
         </div>
@@ -752,13 +761,13 @@
 
         <div class="gallery-item">
           <div class="gallery-image">
-              <img src="{{ url('storage/banner1.jpg') }}"
+              <img src="{{ url('img/old/1 (6).jpeg') }}"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/old/1 (7).jpeg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -772,7 +781,7 @@
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/old/1 (8).jpeg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -786,7 +795,7 @@
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/activity/1 (9).jpeg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -794,13 +803,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="storage/banner1.jpg"
+            <img src="{{ url('img/activity/1 (3).jpeg') }}"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="storage/banner1.jpg" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/activity/1 (7).jpeg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
