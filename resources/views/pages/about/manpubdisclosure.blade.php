@@ -63,7 +63,8 @@
                                 <tr>
                                     <td>4</td>
                                     <td>COMPLETE ADDRESS</td>
-                                    <td>Pune Cambridge Public School, Sr. No 28. Jijamata chowk, Behind Ambegaon Pathar Police Chowki, Ambegaon Pathar- Pune 411046</td>
+                                    <td>Pune Cambridge Public School, Sr. No 28. Jijamata chowk, Behind Ambegaon Pathar
+                                        Police Chowki, Ambegaon Pathar- Pune 411046</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
@@ -78,12 +79,13 @@
                                 <tr>
                                     <td>7</td>
                                     <td>SCHOOL E-MAIL ID</td>
-                                    <td><a href="mailto:principal@punecambridge.org">principal@punecambridge.org</a></td>
+                                    <td><a href="mailto:principal@punecambridge.org">principal@punecambridge.org</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>CONTACT DETAILS</td>
-                                    <td> 020 - 24363600 / 34363300,  9011032856</td>
+                                    <td> 020 - 24363600 / 34363300, 9011032856</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -482,6 +484,8 @@
                             &nbsp;</p>
                         </p>
                     </div>
+
+
 
 
 

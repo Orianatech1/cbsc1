@@ -74,7 +74,7 @@
     <!-- mobile menu start here -->
     <div class="mobile-menu-area">
         <div class="logo-area">
-            <a style="max-width:175px" class="logo" href="{{ url('/') }}"><img src="{{ url('storage/Logo.png') }}"
+            <a style="max-width:175px" class="logo" href="{{ url('/') }}"><img src="{{ url('img/mobilelogo.png') }}"
                     alt="logo" class="img-responsive"></a>
             <button type="button" class="navbar-toggle collapsed d-md-none" data-toggle="collapse"
                 data-target="#bs-example-navbar-collapse-1" aria-expanded="false">

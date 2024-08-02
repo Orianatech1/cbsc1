@@ -467,7 +467,7 @@
     <div class="slider-container">
         <div class="slides" id="slides">
             <div class="slide">
-                <img src="{{ url('storage/banner1.jpg') }}" style="width:100%">
+                <img src="{{ url('img/old/1 (1).jpeg') }}" style="width:100%">
             </div>
             <div class="slide">
                 <img src="{{ url('storage/banner2.jpg') }}" style="width:100%">
