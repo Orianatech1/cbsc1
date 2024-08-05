@@ -40,8 +40,75 @@
    </ul>
 </div>
 <div class="col-md-8 col-sm-6 col-xs-12">
-<script src="../../ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="../../unpkg.com/sweetalert%402.1.2/dist/sweetalert.min.js"></script>
+
+
+
+
+    <div class="post-items">
+        <div class="post-item">
+                <div class="post-content">
+
+<form class="contact-form" id="submit_admission" method="post" name="pcps_form" action="https://script.google.com/macros/s/AKfycbzt-fi01PUMVyDfAHPUCS-HnjTwXijmDWrBshTjhOr-XsHeR9E0-6w9-CAXMw4EDubZeQ/exec" >
+
+        <input type="text" placeholder="Full Name Of Student *" class="contact-input" name="name" id="name" data-error="Name field is required" required>
+                            <br>
+        <input type="text" placeholder="Full Name Of Parent *" class="contact-input" name="parent_name" id="parent_name" data-error="Parent Name field is required" required>
+
+
+        <br>
+
+        <input type="email" placeholder="Email ID Of Parent *" class="contact-input" name="email" id="email" data-error="Email field is required" required>
+        <input type="text" placeholder="Phone Of Parent*" class="contact-input" name="phone" id="phone" data-error="Phone field is required" required>
+        <select id="city" class='contact-input' name="city">
+            <option selected="selected">-Select City-</option>
+            <option disabled="disabled" style="background-color:#3E3E3E"><font color="#000000"><i>-Top Cities-</i></font></option>
+            <option>Pune</option>
+            <option>Mumbai</option>
+
+            <option>Other</option>
+        </select>
+
+    <select id="standard" class='contact-input' name="standard">
+            <option selected="selected">-Select Standard For Which Admission Is Required-</option>
+            <option>Nursery</option>
+            <option>Jr.KG</option>
+            <option>Sr.KG</option>
+            <option>Class 1</option>
+            <option>Class 2</option>
+            <option>Class 3</option>
+            <option>Class 4</option>
+            <option>Class 5</option>
+            <option>Class 6</option>
+            <option>Class 7</option>
+            <option>Class 8</option>
+            <option>Class 9</option>
+            <option>Class 10</option>
+    </select>
+    <input type="text" placeholder="Marks Obtained In Pervious Standard *" class="contact-input" name="marks" id="marks">
+
+<script>
+
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzt-fi01PUMVyDfAHPUCS-HnjTwXijmDWrBshTjhOr-XsHeR9E0-6w9-CAXMw4EDubZeQ/exec'
+
+const form = document.forms['pcps_form']
+
+form.addEventListener('submit', e => {
+e.preventDefault()
+fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+.then(response => alert("Thank you! We Will Get Back To You." ))
+.then(() => { window.location.reload(); })
+.catch(error => console.error('Error!', error.message))
+})
+
+</script>
+<input type="hidden" name="_token" value="">
+
+
+<input type="submit" class="contact-button" value="Submit" >
+
+</form>
+<script src="css/jquery.min.js"></script>
+<script src="css/sweetalert.min.js"></script>
 </div>
 </div><!-- row -->
 </div><!-- container -->

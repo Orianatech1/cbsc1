@@ -58,8 +58,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -75,8 +75,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (13).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (13).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -92,8 +92,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (14).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (14).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -109,8 +109,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (15).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (15).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -126,8 +126,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -143,8 +143,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -160,8 +160,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -177,8 +177,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -194,8 +194,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -211,8 +211,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('storage/banner1.jpg') }}">
-                                        <img class="img-fluid" src="{{ url('storage/banner1.jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">

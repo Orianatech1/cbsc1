@@ -30,7 +30,7 @@
                         <div class="post-item">
                                 <div class="post-content">
                                           <h3><a href="#">Submit Admission Enquiry</a></h3>
-     <form class="contact-form" id="submit_admission" method="post" enctype="multipart/form-data" onsubmit="return submitUserForm();" >
+     <form class="contact-form" id="submit_admission" method="post" name="pcps_form" action="https://script.google.com/macros/s/AKfycbzt-fi01PUMVyDfAHPUCS-HnjTwXijmDWrBshTjhOr-XsHeR9E0-6w9-CAXMw4EDubZeQ/exec" >
 
                         <input type="text" placeholder="Full Name Of Student *" class="contact-input" name="name" id="name" data-error="Name field is required" required>
                                             <br>
@@ -68,9 +68,22 @@
                     </select>
                     <input type="text" placeholder="Marks Obtained In Pervious Standard *" class="contact-input" name="marks" id="marks">
 
+<script>
 
-                        <script src='css/api.js'></script>
-                        <script>
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzt-fi01PUMVyDfAHPUCS-HnjTwXijmDWrBshTjhOr-XsHeR9E0-6w9-CAXMw4EDubZeQ/exec'
+
+const form = document.forms['pcps_form']
+
+form.addEventListener('submit', e => {
+  e.preventDefault()
+  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+  .then(response => alert("Thank you! your form is submitted successfully." ))
+  .then(() => { window.location.reload(); })
+  .catch(error => console.error('Error!', error.message))
+})
+
+</script>
+                        {{-- <script>
                         function submitUserForm() {
                             var response = grecaptcha.getResponse();
                             if(response.length == 0) {
@@ -83,7 +96,7 @@
                         function verifyCaptcha() {
                             document.getElementById('g-recaptcha-error').innerHTML = '';
                         }
-                        </script>
+                        </script> --}}
 
                         {{-- <div class="g-recaptcha" data-sitekey=" " data-callback="verifyCaptcha"></div>
                         <div id="g-recaptcha-error"></div> --}}
@@ -98,12 +111,12 @@
 
     <script src="js/jquery.min.js"></script>
     <script src="js/sweetalert.min.js"></script>
-    <script>
+    {{-- <script>
     $(document).ready(function(){
         $('#submit_admission').on('submit', function(event){
         event.preventDefault();
         $.ajax({
-        url:"/Admission/submit_admission_enquiry",
+        url:"https://script.google.com/macros/s/AKfycbzt-fi01PUMVyDfAHPUCS-HnjTwXijmDWrBshTjhOr-XsHeR9E0-6w9-CAXMw4EDubZeQ/exec",
         method:"POST",
         data:new FormData(this),
         dataType:'JSON',
@@ -120,7 +133,7 @@
         })
         });
     });
-    </script>
+    </script> --}}
 
                                 </div>
                         </div><!-- post item -->
