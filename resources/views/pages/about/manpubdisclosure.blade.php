@@ -138,7 +138,7 @@
                                         <p>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS
                                             APPLICABLE</p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/trust registration1.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
@@ -146,7 +146,7 @@
                                         <p>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE BY THE STATE
                                             GOVT./UT</p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/CBSE NOC2.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
@@ -154,7 +154,7 @@
                                         <p>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT&#39;S RENEWAL
                                             IF APPLICABLE</p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Namun 3.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
@@ -162,14 +162,14 @@
                                         <p>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE
                                         </p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/building safty4.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
                                     <td>
                                         <p>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Fire Saefty Certificate5.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 {{-- <tr>
                                     <td>7</td>
@@ -185,17 +185,17 @@
                                     <td>
                                         <p>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</p>
                                     </td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Safe Drinking Water6.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
                                     <td>LAND CERTIFICATE</td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/land certificate7.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
                                     <td>COPY OF SELF CERTIFICATION</td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Self Certification Proforma8.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                             </tbody>
                         </table>
