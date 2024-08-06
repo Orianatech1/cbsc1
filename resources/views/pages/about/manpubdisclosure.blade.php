@@ -65,7 +65,7 @@
                                 <tr>
                                     <td>3</td>
                                     <td>SCHOOL CODE</td>
-                                    <td>141111</td>
+                                    <td>-</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
@@ -76,12 +76,12 @@
                                 <tr>
                                     <td>5</td>
                                     <td>PRINCIPAL NAME</td>
-                                    <td>Mr. Yeshwant B.Chitalkar</td>
+                                    <td>Yeshwant B. Chitalkar</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
                                     <td>PRINCIPAL QUALIFICATION</td>
-                                    <td>M.A. B.ED.</td>
+                                    <td>M.A. B.ED, DSM, MBA</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
@@ -124,16 +124,16 @@
                                     </td>
                                     <td><strong>Attachment</strong></td>
                                 </tr>
-                                <tr>
+                                {{-- <tr>
                                     <td>1</td>
                                     <td>
                                         <p>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF AFFILIATION,
                                             IF ANY</p>
                                     </td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
-                                </tr>
+                                </tr> --}}
                                 <tr>
-                                    <td>2</td>
+                                    <td>1</td>
                                     <td>
                                         <p>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS
                                             APPLICABLE</p>
@@ -141,7 +141,7 @@
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
-                                    <td>3</td>
+                                    <td>2</td>
                                     <td>
                                         <p>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE BY THE STATE
                                             GOVT./UT</p>
@@ -149,7 +149,7 @@
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
-                                    <td>4</td>
+                                    <td>3</td>
                                     <td>
                                         <p>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT&#39;S RENEWAL
                                             IF APPLICABLE</p>
@@ -157,7 +157,7 @@
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
-                                    <td>5</td>
+                                    <td>4</td>
                                     <td>
                                         <p>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE
                                         </p>
@@ -165,13 +165,13 @@
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
-                                    <td>6</td>
+                                    <td>5</td>
                                     <td>
                                         <p>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</p>
                                     </td>
                                     <td><a href="pdf/staff.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
-                                <tr>
+                                {{-- <tr>
                                     <td>7</td>
                                     <td>
                                         <p>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR
@@ -179,17 +179,22 @@
                                             SCHOOL</p>
                                     </td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
-                                </tr>
+                                </tr> --}}
                                 <tr>
-                                    <td>8</td>
+                                    <td>6</td>
                                     <td>
                                         <p>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</p>
                                     </td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
-                                    <td>9</td>
+                                    <td>7</td>
                                     <td>LAND CERTIFICATE</td>
+                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>COPY OF SELF CERTIFICATION</td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                             </tbody>
@@ -240,12 +245,12 @@
                                     <td>LIST OF PARENTS TEACHERS ASSOCIATION EPTA MEMBERS</td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
-                                <tr>
+                                {{-- <tr>
                                     <td>5</td>
                                     <td>LAST THREE YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY</td>
                                     <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a>
                                     </td>
-                                </tr>
+                                </tr> --}}
                                 <tr>
                                     <td>6</td>
                                     <td>WOMEN&#39;S GRIEVANCE REDRESSAL COMMITTEE</td>
@@ -274,7 +279,7 @@
 
 
 
-                    <div class="post-content">
+                    {{-- <div class="post-content">
                         <h3>D: STAFF (TEACHING)</h3>
                         <p>
                         <p>&nbsp;</p>
@@ -394,7 +399,7 @@
                         <p><br />
                             &nbsp;</p>
                         </p>
-                    </div>
+                    </div> --}}
 
 
 
@@ -409,7 +414,7 @@
 
 
 
-                    <div class="post-content">
+                    {{-- <div class="post-content">
                         <h3>E: SCHOOL INFRASRTUCTURE:</h3>
                         <p>
                         <p>&nbsp;</p>
@@ -490,7 +495,7 @@
                         <p><br />
                             &nbsp;</p>
                         </p>
-                    </div>
+                    </div> --}}
 
 
 
@@ -507,7 +512,7 @@
 
 
 
-                    <div class="post-content">
+                    {{-- <div class="post-content">
                         <h3>SARAS 2023-2024</h3>
                         <p>
                         <table border="1">
@@ -525,7 +530,7 @@
                             </tbody>
                         </table>
                         </p>
-                    </div>
+                    </div> --}}
 
 
 
