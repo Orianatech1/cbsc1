@@ -346,28 +346,28 @@
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-student"></i>
-              <span class="counter">450</span><span>+</span>
+              <span class="counter">350</span><span>+</span>
               <p>Total Students</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-construction"></i>
-              <span class="counter">25</span><span>+</span>
+              <span class="counter">18</span><span>+</span>
               <p>Class Rooms</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-school-bus"></i>
-              <span class="counter">12</span><span>+</span>
+              <span class="counter">10</span><span>+</span>
               <p>School Bus</p>
             </div><!-- achievement item -->
           </div>
           <div class="col-md-3 col-sm-3 col-12">
             <div class="achievement-item">
               <i class="icon flaticon-people"></i>
-              <span class="counter">50</span><span>+</span>
+              <span class="counter">25</span><span>+</span>
               <p>Total Teachers</p>
             </div><!-- achievement item -->
           </div>

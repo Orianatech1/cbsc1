@@ -76,7 +76,7 @@
                                 <tr>
                                     <td>5</td>
                                     <td>PRINCIPAL NAME</td>
-                                    <td>Mrs. Kunjir Mam</td>
+                                    <td>Mr. Yeshwant B.Chitalkar</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
@@ -86,7 +86,7 @@
                                 <tr>
                                     <td>7</td>
                                     <td>SCHOOL E-MAIL ID</td>
-                                    <td><a href="mailto:principal@punecambridge.org">principal@punecambridge.org</a>
+                                    <td><a href="mailto:pcpscbseambegaon@gmail.com">pcpscbseambegaon@gmail.com</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -302,7 +302,7 @@
                                         <p>PRINCIPAL</p>
                                     </td>
                                     <td>
-                                        <p>MRS. KUNJIR MAM<br />
+                                        <p>Mr. Yeshwant B.Chitalkar<br />
                                             M.A. B.Ed.</p>
                                     </td>
                                 </tr>
