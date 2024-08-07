@@ -41,14 +41,16 @@
 
                         <input type="email" placeholder="Email ID Of Parent *" class="contact-input" name="email" id="email" data-error="Email field is required" required>
                         <input type="text" placeholder="Phone Of Parent*" class="contact-input" name="phone" id="phone" data-error="Phone field is required" required>
-                        <select id="city" class='contact-input' name="city">
+                        <input type="text" placeholder="Name of Last School Attended" class="contact-input" name="city" id="phone" data-error="Phone field is required" required>
+
+                        {{-- <select id="city" class='contact-input' name="city">
                             <option selected="selected">-Select City-</option>
                             <option disabled="disabled" style="background-color:#3E3E3E"><font color="#000000"><i>-Top Cities-</i></font></option>
                             <option>Pune</option>
                             <option>Mumbai</option>
 
                             <option>Other</option>
-                        </select>
+                        </select> --}}
 
                     <select id="standard" class='contact-input' name="standard">
                             <option selected="selected">-Select Standard For Which Admission Is Required-</option>

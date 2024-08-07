@@ -66,7 +66,7 @@
                 <img src="{{ url('img/old/1 (15).jpeg') }}" style="width:100%">
             </div>
             <div class="slide">
-                <img src="{{ url('img/old/1 (13).jpeg') }}" style="width:100%">
+                <img src="{{ url('img/old/1 (10).jpeg') }}" style="width:100%">
             </div>
             <div class="slide">
                 <img src="{{ url('img/activity/1 (1).jpg') }}" style="width:100%">

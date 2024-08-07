@@ -34,12 +34,12 @@
                         </a>
                     </li>
 
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link " id="tab4-tab" data-toggle="tab" href="#tab4" role="tab"
                             aria-controls="tab4" aria-selected="false">
                             Sports
                         </a>
-                    </li>
+                    </li> --}}
 
 
 
@@ -58,8 +58,8 @@
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
-                                    <a class="gallery-popup" href="{{ url('img/activity/1 (1).jpg') }}">
-                                        <img class="img-fluid" src="{{ url('img/activity/1 (1).jpg') }}" alt="Campus Life"
+                                    <a class="gallery-popup" href="{{ url('img/activity/1 (10).jpg') }}">
+                                        <img class="img-fluid" src="{{ url('img/activity/1 (10).jpg') }}" alt="Campus Life"
                                             style="width: 100%; height: auto;">
                                     </a>
                                     <div class="project-item-info">
@@ -122,7 +122,7 @@
                             </div>
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -136,10 +136,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -153,10 +153,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -170,10 +170,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -187,10 +187,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -204,10 +204,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;2&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -221,7 +221,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <hr size="4" color="red">
 
@@ -233,7 +233,7 @@
                             <!-- Loop through images or videos -->
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -246,10 +246,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -262,10 +262,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -278,10 +278,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -294,10 +294,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -310,10 +310,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -326,10 +326,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -342,10 +342,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -358,10 +358,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -374,10 +374,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                             <!-- Check if media is video -->
                             <!-- Image -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                            {{-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
                                 data-groups="[&quot;4&quot;]">
                                 <div class="project-img-container"
                                     style="width: auto; height: 200px; overflow: hidden;">
@@ -390,7 +390,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <hr size="4" color="red">
 
