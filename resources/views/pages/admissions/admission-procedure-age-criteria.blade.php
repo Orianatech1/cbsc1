@@ -96,7 +96,7 @@
                 <td>Class VIII</td>
                 <td>13 Years</td>
             </tr>
-            <tr>
+            {{-- <tr>
                 <td>12</td>
                 <td>Class IX</td>
                 <td>14 Years</td>
@@ -115,7 +115,7 @@
                 <td>15</td>
                 <td>Class XII</td>
                 <td>17 Years</td>
-            </tr>
+            </tr> --}}
         </tbody>
     </table>
 </div>

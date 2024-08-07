@@ -63,8 +63,7 @@
                             <option>Class 6</option>
                             <option>Class 7</option>
                             <option>Class 8</option>
-                            <option>Class 9</option>
-                            <option>Class 10</option>
+
                     </select>
                     <input type="text" placeholder="Marks Obtained In Pervious Standard *" class="contact-input" name="marks" id="marks">
 

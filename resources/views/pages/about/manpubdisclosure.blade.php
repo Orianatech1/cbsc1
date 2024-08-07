@@ -228,7 +228,7 @@
                                 <tr>
                                     <td><strong>1</strong></td>
                                     <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                    <td><a href="pdf/staff.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Fee Structure .pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>2</strong></td>
@@ -238,12 +238,12 @@
                                 <tr>
                                     <td><strong>3</strong></td>
                                     <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                                    <td><a href="pdf/staff.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/School Managing Committee.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>4</strong></td>
                                     <td>LIST OF PARENTS TEACHERS ASSOCIATION EPTA MEMBERS</td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/Parent Teacher Association.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 {{-- <tr>
                                     <td>5</td>
@@ -254,7 +254,7 @@
                                 <tr>
                                     <td>6</td>
                                     <td>WOMEN&#39;S GRIEVANCE REDRESSAL COMMITTEE</td>
-                                    <td><a href="pdf/staff.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/womengray.pdf" target="_blank"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td>7</td>

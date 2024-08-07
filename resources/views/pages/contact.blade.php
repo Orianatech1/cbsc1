@@ -34,7 +34,7 @@
         <span class="icon flaticon-message"></span>
         <div class="content">
         <h4>Email Address</h4>
-        <p>contact@punecambridge.org </p>
+        <p>pcpscbseambegaon@gmail.com</p>
         </div>
      </li>
    </ul>
@@ -81,8 +81,7 @@
             <option>Class 6</option>
             <option>Class 7</option>
             <option>Class 8</option>
-            <option>Class 9</option>
-            <option>Class 10</option>
+
     </select>
     <input type="text" placeholder="Marks Obtained In Pervious Standard *" class="contact-input" name="marks" id="marks">
 
