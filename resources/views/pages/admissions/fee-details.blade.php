@@ -30,7 +30,7 @@
                                 <div class="post-content">
                                     <h3><a href="#">Fee Details</a></h3>
                                                                         <p><a href="pdf/staff.pdf" target="_blank">View File </a></p>
-                                        <object data="pdf/staff.pdf" type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
+                                        <object data="pdf/Fee Structure .pdf" type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
                                                                                                         <p>Fee Details</p>
                                                                 </div>
                         </div><!-- post item -->
