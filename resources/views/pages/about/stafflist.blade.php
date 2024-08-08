@@ -37,7 +37,7 @@
 
 
                     <h4>1. Staff List</h4>
-                    <object data="pdf/staff.pdf"
+                    <object data="pdf/teacher.pdf"
                         type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
 
 
