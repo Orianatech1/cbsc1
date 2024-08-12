@@ -30,7 +30,7 @@
             <div class="col-lg-12">
                 <div class="single-post ">
                     <h4>1. Managing Committee</h4>
-                    <object data="pdf/staff.pdf" type="application/pdf" width="100%"
+                    <object data="pdf/School Managing Committee.pdf" type="application/pdf" width="100%"
                         height="800px" internalinstanceid="20"></object>
 
                 </div><!-- single post -->

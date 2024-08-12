@@ -24,7 +24,7 @@
 <div class="post-item">
 <div class="post-content">
 <h3><a href="#">Academic Calendar</a></h3>
-    <object data="pdf/staff.pdf" type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
+    <object data="pdf/PCPS ANNUAL CALENDER.pdf" type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
         <p>Academic Calendar</p>
 </div>
 </div><!-- post item -->

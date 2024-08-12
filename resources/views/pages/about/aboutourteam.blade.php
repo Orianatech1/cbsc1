@@ -33,7 +33,7 @@
 
                 <div class="post-content">
                  <div class="post-image">
-                 <center><img src="img/kunjirsir.png" style="max-height: 250px" alt="post image" class="img-responsive"></center>
+                 <img src="img/kunjirsir.png" style="max-height: 250px" alt="post image" class="img-responsive">
              </div>
              <h3>Dear Parents,</h3>
           <p>

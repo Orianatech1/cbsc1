@@ -233,7 +233,7 @@
                                 <tr>
                                     <td><strong>2</strong></td>
                                     <td>ANNUAL ACADEMIC CALENDER</td>
-                                    <td><a href="pdf/staff.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
+                                    <td><a href="pdf/PCPS ANNUAL CALENDER.pdf"><img src="img/pdf.svg" width="25px" alt=""></a></td>
                                 </tr>
                                 <tr>
                                     <td><strong>3</strong></td>
