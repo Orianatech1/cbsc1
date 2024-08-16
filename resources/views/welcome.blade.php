@@ -126,15 +126,15 @@
         <div class="facility-item">
             <div class="front-part">
               <span class="icon-two flaticon-line-chart"></span>
-              <h4><a href="facility_details/4.html">
+              <h4>
                   <font color="white">School USP</font>
-                </a></h4>
+                </h4>
             </div>
             <div class="back-part">
               <span class="icon-two flaticon-line-chart"></span>
-              <h4><a href="facility_details/4.html">
+              <h4>
                   <font color="white">School USP</font>
-                </a></h4>
+                </h4>
               <p>Affordable fees for students with provision for parents to pay fee in installments.</p>
             </div>
           </div>
@@ -142,31 +142,31 @@
           <div class="facility-item">
             <div class="front-part">
               <span class="icon-two flaticon-avatar"></span>
-              <h4><a href="facility_details/2.html">
+              <h4>
                   <font color="white">Assessment</font>
-                </a></h4>
+                </h4>
             </div>
             <div class="back-part">
               <span class="icon-two flaticon-avatar"></span>
-              <h4><a href="facility_details/2.html">
+              <h4>
                   <font color="white">Assessment</font>
-                </a></h4>
+                </h4>
               <p>Assessments are a continuous process, conducted on weekly, monthly termwise.</p>
             </div>
           </div>
         <div class="facility-item">
           <div class="front-part">
             <span class="icon-two flaticon-symbols"></span>
-            <h4><a href="facility_details/6.html">
+            <h4>
                 <font color="white">Pedagogy</font>
-              </a></h4>
+            </h4>
           </div>
           <div class="back-part">
             <span class="icon-two flaticon-symbols"></span>
-            <h4><a href="facility_details/6.html">
+            <h4>
                 <font color="white">Pedagogy</font>
-              </a></h4>
-            <p>The pedagogical practices at pcs are learner centric.</p>
+            </h4>
+            <p>The pedagogical practices at PCPS are learner centric.</p>
           </div>
         </div>
 
@@ -175,15 +175,15 @@
         <div class="facility-item">
           <div class="front-part">
             <span class="icon-two flaticon-pen"></span>
-            <h4><a href="facility_details/3.html">
+            <h4>
                 <font color="white">Final Evaluation</font>
-              </a></h4>
+            </h4>
           </div>
           <div class="back-part">
             <span class="icon-two flaticon-pen"></span>
-            <h4><a href="facility_details/3.html">
+            <h4>
                 <font color="white">Final Evaluation</font>
-              </a></h4>
+            </h4>
             <p>Evaluation includes written exam, notebook submission, and subject enrichment activities.</p>
           </div>
         </div>
