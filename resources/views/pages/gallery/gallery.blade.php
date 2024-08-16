@@ -52,6 +52,96 @@
                         <!-- Tab Content Goes Here -->
                         <div class="row shuffle-wrapper">
                             <!-- Loop through images or videos -->
+
+                              <!-- Check if media is video -->
+                            <!-- Image -->
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                                data-groups="[&quot;2&quot;]">
+                                <div class="project-img-container"
+                                    style="width: auto; height: 200px; overflow: hidden;">
+                                    <a class="gallery-popup" href="{{ url('img/gallery/5.jpeg') }}">
+                                        <img class="img-fluid" src="{{ url('img/gallery/5.jpeg') }}" alt="Campus Life"
+                                            style="width: 100%; height: auto;">
+                                    </a>
+                                    <div class="project-item-info">
+                                        <div class="project-item-info-content">
+                                            <p class="project-cat"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                              <!-- Check if media is video -->
+                            <!-- Image -->
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                                data-groups="[&quot;2&quot;]">
+                                <div class="project-img-container"
+                                    style="width: auto; height: 200px; overflow: hidden;">
+                                    <a class="gallery-popup" href="{{ url('img/gallery/4.jpeg') }}">
+                                        <img class="img-fluid" src="{{ url('img/gallery/4.jpeg') }}" alt="Campus Life"
+                                            style="width: 100%; height: auto;">
+                                    </a>
+                                    <div class="project-item-info">
+                                        <div class="project-item-info-content">
+                                            <p class="project-cat"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                              <!-- Check if media is video -->
+                            <!-- Image -->
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                                data-groups="[&quot;2&quot;]">
+                                <div class="project-img-container"
+                                    style="width: auto; height: 200px; overflow: hidden;">
+                                    <a class="gallery-popup" href="{{ url('img/gallery/3.jpeg') }}">
+                                        <img class="img-fluid" src="{{ url('img/gallery/3.jpeg') }}" alt="Campus Life"
+                                            style="width: 100%; height: auto;">
+                                    </a>
+                                    <div class="project-item-info">
+                                        <div class="project-item-info-content">
+                                            <p class="project-cat"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                              <!-- Check if media is video -->
+                            <!-- Image -->
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                                data-groups="[&quot;2&quot;]">
+                                <div class="project-img-container"
+                                    style="width: auto; height: 200px; overflow: hidden;">
+                                    <a class="gallery-popup" href="{{ url('img/gallery/2.jpeg') }}">
+                                        <img class="img-fluid" src="{{ url('img/gallery/2.jpeg') }}" alt="Campus Life"
+                                            style="width: 100%; height: auto;">
+                                    </a>
+                                    <div class="project-item-info">
+                                        <div class="project-item-info-content">
+                                            <p class="project-cat"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                              <!-- Check if media is video -->
+                            <!-- Image -->
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"
+                                data-groups="[&quot;2&quot;]">
+                                <div class="project-img-container"
+                                    style="width: auto; height: 200px; overflow: hidden;">
+                                    <a class="gallery-popup" href="{{ url('img/gallery/1.jpeg') }}">
+                                        <img class="img-fluid" src="{{ url('img/gallery/1.jpeg') }}" alt="Campus Life"
+                                            style="width: 100%; height: auto;">
+                                    </a>
+                                    <div class="project-item-info">
+                                        <div class="project-item-info-content">
+                                            <p class="project-cat"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <!-- Check if media is video -->
                             <!-- Image -->
                             <div class="col-12 col-sm-6 col-md-4 col-lg-3 d-flex justify-content-center shuffle-item"

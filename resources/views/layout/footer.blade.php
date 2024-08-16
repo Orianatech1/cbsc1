@@ -62,19 +62,19 @@
               <ul class="photos">
                 <li>
 
-                  <img src="{{ url('img/activity/1 (14).jpg') }}"
+                  <img src="{{ url('img/gallery/1.jpeg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="{{ url('img/activity/1 (14).jpg') }}"
+                  <img src="{{ url('img/gallery/2.jpeg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
                 <li>
 
-                  <img src="{{ url('img/activity/1 (14).jpg') }}"
+                  <img src="{{ url('img/gallery/3.jpeg') }}"
                     style="height: 65px !important;width: 90px !important;" alt="gallery image" class="img-responsive">
 
                 </li>
@@ -92,8 +92,8 @@
           <div class="col-lg-12 col-xs-12">
 
 
-            <p style="text-align: center"> Copyright © 2024 Designed & Developed By OrianaTech,
-             | <a href="#" target="_blank"> Pune Cambridge Group Of Institute, Pune</a></p>
+            <p style="text-align: center"> Copyright © 2024 Designed & Developed By
+              <a href="https://orianatechsolutions.com" target="_blank">ORIANATECH</a> | Pune Cambridge Group Of Institute, Pune</p>
           </div>
 
         </div><!-- row -->

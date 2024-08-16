@@ -54,6 +54,12 @@
     <div class="slider-container">
         <div class="slides" id="slides">
             <div class="slide">
+                <img src="{{ url('img/gallery/2.jpeg') }}" style="width:100%">
+            </div>
+            <div class="slide">
+                <img src="{{ url('img/gallery/1.jpeg') }}" style="width:100%">
+            </div>
+            <div class="slide">
                 <img src="{{ url('img/old/1 (10).jpeg') }}" style="width:100%">
             </div>
             <div class="slide">
@@ -273,13 +279,13 @@
 
         <div class="gallery-item">
           <div class="gallery-image">
-              <img src="{{ url('img/activity/1 (11).jpg') }}"
+              <img src="{{ url('img/gallery/1.jpeg') }}"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="img/activity/1 (11).jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/gallery/1.jpeg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -287,13 +293,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="img/activity/1 (15).jpg"
+            <img src="img/gallery/2.jpeg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="img/activity/1 (15).jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/gallery/2.jpeg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -301,13 +307,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="img/activity/1 (16).jpg"
+            <img src="img/gallery/3.jpeg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="img/activity/1 (16).jpg" data-rel="lightcase:myCollection"><i
+              <a href="img/gallery/3.jpeg" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -315,13 +321,13 @@
         </div>
         <div class="gallery-item">
           <div class="gallery-image">
-            <img src="img/activity/1 (14).jpg"
+            <img src="img/gallery/4.jpeg"
               alt="" class="img-responsive">
             <div class="gallery-overlay">
               <div class="bg"></div>
             </div>
             <div class="gallery-content">
-              <a href="{{ url('img/activity/1 (14).jpg') }}" data-rel="lightcase:myCollection"><i
+              <a href="{{ url('img/gallery/4.jpeg') }}" data-rel="lightcase:myCollection"><i
                   class="icon flaticon-expand"></i></a>
               <h4></h4>
             </div>
@@ -330,7 +336,7 @@
 
       </div><!-- gallery items -->
 
-      <div class="gallery-button"><a href="#" class="button-default">View More
+      <div class="gallery-button"><a href="{{ ('/gallery') }}" class="button-default">View More
           Gallery</a></div>
 
     </div><!-- overlay -->
