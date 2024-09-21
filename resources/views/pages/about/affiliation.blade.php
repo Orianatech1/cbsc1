@@ -30,11 +30,11 @@
                 <div class="single-post ">
 
                     <h4>1. Grant Letter -2024</h4>
-                    <object data="pdf/staff.pdf" type="application/pdf" width="100%"
+                    <object data="pdf/" type="application/pdf" width="100%"
                         height="800px" internalinstanceid="20"></object>
 
                     <h4>2. Affiliation</h4>
-                    <object data="pdf/staff.pdf"
+                    <object data="pdf/"
                         type="application/pdf" width="100%" height="800px" internalinstanceid="20"></object>
 
                 </div><!-- single post -->

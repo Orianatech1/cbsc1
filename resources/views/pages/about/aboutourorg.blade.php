@@ -34,15 +34,15 @@
                         </div>
                         <h3>PCPS Overview</h3>
                         <p>
-                        <p align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic reprehenderit autem, modi voluptate veritatis illum, dolores aut nemo cupiditate sunt labore quisquam earum rem inventore accusamus atque cum distinctio eos.</p>
+                        <p align="justify"></p>
 
-                        <p align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus omnis suscipit vero nisi asperiores incidunt, similique aut velit minima quisquam saepe tenetur impedit quod magnam cupiditate, quas, earum eos! Voluptate.</p>
+                        <p align="justify"></p>
 
-                        <p align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ex repellendus accusamus voluptate saepe voluptatem corrupti illum sunt harum ea, a dolorem officiis repudiandae quae esse obcaecati autem nam reiciendis.</p>
+                        <p align="justify"></p>
 
-                        <p align="justify">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero ullam, amet omnis distinctio, cupiditate architecto aperiam dolores iste velit eum repudiandae quibusdam repellendus sapiente? Atque dolores error laboriosam ipsa qui?.</p>
+                        <p align="justify"> </p>
 
-                        <p align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio delectus alias voluptatibus veniam, aut, sint corrupti officiis voluptatem obcaecati velit nostrum minus, consequatur placeat. Assumenda maxime asperiores provident quidem eum!.</p>
+                        <p align="justify"></p>
                         </p>
                     </div>
 
